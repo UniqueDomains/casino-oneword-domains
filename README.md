@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .casino one-word domains fr
 
 **Public extract:** 9,098 rows · **Live catalog:** 9,100 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/casino`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| forge.casino    | available | $17.99    | $236.99       | 62             | 45     | 5      | name.com          |
-| sharp.casino    | resell    | $17.99    | $236.99       | 84             | 36     | 5      | Spaceship, Inc.   |
-| net.casino      | premium   | $1,000    | —             | 76             | 53     | 3      | name.com          |
-| mark.casino     | available | $17.99    | $236.99       | 66             | 42     | 4      | name.com          |
-| four.casino     | resell    | $17.99    | $236.99       | 66             | 29     | 4      | Dynadot Inc       |
-| travel.casino   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap         |
-| agile.casino    | available | $17.99    | $236.99       | 92             | 41     | 5      | name.com          |
-| main.casino     | resell    | —         | —             | 94             | 99     | 4      | Sav.com, LLC - 46 |
-| blue.casino     | premium   | —         | —             | 92             | 99     | 4      | —                 |
-| order.casino    | available | $17.99    | $236.99       | 78             | 41     | 5      | name.com          |
-| shot.casino     | resell    | —         | —             | 116            | 98     | 4      | Dynadot Inc       |
-| audible.casino  | premium   | —         | —             | 112            | 98     | 7      | —                 |
-| craft.casino    | available | $17.99    | $236.99       | 70             | 41     | 5      | name.com          |
-| billion.casino  | resell    | —         | —             | 82             | 98     | 7      | Automattic Inc.   |
-| sapphire.casino | premium   | —         | —             | 92             | 98     | 8      | —                 |
-| content.casino  | available | $17.99    | $236.99       | 138            | 40     | 7      | name.com          |
-| with.casino     | resell    | —         | —             | 98             | 74     | 4      | Dynadot Inc       |
-| bow.casino      | premium   | —         | —             | 80             | 98     | 3      | —                 |
-| care.casino     | available | $191.98   | —             | 80             | 40     | 4      | namecheap         |
-| boss.casino     | resell    | —         | —             | 76             | 74     | 4      | Dynadot Inc       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| forge.casino    | available | $17.99    | $236.99       | 62             | 45     | 5      | name.com              |
+| sharp.casino    | resell    | $17.99    | $236.99       | 84             | 36     | 5      | Spaceship, Inc.       |
+| net.casino      | premium   | $1,000    | —             | 76             | 53     | 3      | name.com              |
+| mark.casino     | available | $17.99    | $236.99       | 66             | 42     | 4      | name.com              |
+| four.casino     | resell    | $17.99    | $236.99       | 66             | 30     | 4      | Dynadot Inc           |
+| travel.casino   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap             |
+| agile.casino    | available | $17.99    | $236.99       | 92             | 41     | 5      | name.com              |
+| main.casino     | resell    | —         | —             | 94             | 99     | 4      | Sav.com, LLC - 46     |
+| blue.casino     | premium   | —         | —             | 92             | 99     | 4      | —                     |
+| order.casino    | available | $17.99    | $236.99       | 78             | 41     | 5      | name.com              |
+| shot.casino     | resell    | —         | —             | 116            | 98     | 4      | Dynadot Inc           |
+| audible.casino  | premium   | —         | —             | 112            | 98     | 7      | —                     |
+| craft.casino    | available | $17.99    | $236.99       | 70             | 41     | 5      | name.com              |
+| with.casino     | resell    | —         | —             | 98             | 74     | 4      | Dynadot Inc           |
+| sapphire.casino | premium   | —         | —             | 92             | 98     | 8      | —                     |
+| content.casino  | available | $17.99    | $236.99       | 138            | 40     | 7      | name.com              |
+| boss.casino     | resell    | —         | —             | 76             | 74     | 4      | Dynadot Inc           |
+| bow.casino      | premium   | —         | —             | 80             | 98     | 3      | —                     |
+| care.casino     | available | $191.98   | —             | 80             | 40     | 4      | namecheap             |
+| news.casino     | resell    | —         | —             | 100            | 64     | 4      | Go China Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
