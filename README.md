@@ -1,22 +1,22 @@
-# Available .CASINO One-Word Domains (9,101)
+# Available .CASINO One-Word Domains (11,847)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C102%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C101%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C847%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .casino one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .casino one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,847 domains** on the canonical page below.
 
-**Public extract:** 9,102 rows · **Live catalog:** 9,101 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,847 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/casino`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CASINO one-word domai
 
 ### Files
 
-- `casino.csv` — public CSV extract (9,102 rows)
-- `casino.json` — public JSON extract (9,102 rows)
+- `casino.csv` — public CSV extract (1,000 rows)
+- `casino.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| forge.casino    | available | $17.99    | $236.99       | 62             | 44     | 5      | name.com              |
-| sharp.casino    | resell    | $17.99    | $236.99       | 84             | 36     | 5      | Spaceship, Inc.       |
-| net.casino      | premium   | $1,000    | —             | 76             | 53     | 3      | name.com              |
-| craft.casino    | available | $17.99    | $236.99       | 70             | 42     | 5      | name.com              |
-| four.casino     | resell    | $17.99    | $236.99       | 66             | 30     | 4      | Dynadot Inc           |
-| travel.casino   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap             |
-| agile.casino    | available | $17.99    | $236.99       | 92             | 41     | 5      | name.com              |
-| main.casino     | resell    | —         | —             | 94             | 99     | 4      | Sav.com, LLC - 46     |
-| blue.casino     | premium   | —         | —             | 92             | 99     | 4      | —                     |
-| mark.casino     | available | $17.99    | $236.99       | 66             | 41     | 4      | name.com              |
-| with.casino     | resell    | —         | —             | 98             | 74     | 4      | Dynadot Inc           |
-| audible.casino  | premium   | —         | —             | 112            | 98     | 7      | —                     |
-| care.casino     | available | $191.98   | —             | 80             | 40     | 4      | namecheap             |
-| boss.casino     | resell    | —         | —             | 76             | 74     | 4      | Dynadot Inc           |
-| sapphire.casino | premium   | —         | —             | 92             | 98     | 8      | —                     |
-| order.casino    | available | $17.99    | $236.99       | 78             | 40     | 5      | name.com              |
-| news.casino     | resell    | —         | —             | 100            | 64     | 4      | Go China Domains, LLC |
-| bow.casino      | premium   | —         | —             | 80             | 98     | 3      | —                     |
-| unity.casino    | available | $17.99    | $236.99       | 70             | 40     | 5      | name.com              |
-| home.casino     | resell    | —         | —             | 100            | 62     | 4      | Automattic Inc.       |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Books.casino       | available | $191.98   | —             | 52             | 49     | 5      | namecheap         |
+| cars.casino        | resell    | —         | —             | 66             | 47     | 4      | Sav.com, LLC - 18 |
+| jobs.casino        | premium   | $1,000    | —             | 79             | 42     | 4      | name.com          |
+| matcha.casino      | available | $17.99    | —             | 86             | 39     | 6      | name.com          |
+| bit.casino         | resell    | —         | —             | 76             | 46     | 3      | Porkbun LLC       |
+| etc.casino         | available | $17.99    | —             | 58             | 34     | 3      | name.com          |
+| coins.casino       | resell    | —         | —             | 56             | 41     | 5      | GoDaddy.com, LLC  |
+| quotes.casino      | available | $17.99    | —             | 58             | 29     | 6      | name.com          |
+| mall.casino        | resell    | —         | —             | 82             | 27     | 4      | Dynadot Inc       |
+| blocks.casino      | available | $17.99    | —             | 53             | 29     | 6      | name.com          |
+| wheels.casino      | resell    | —         | —             | 76             | 20     | 6      | GoDaddy.com, LLC  |
+| photos.casino      | available | $17.99    | —             | 54             | 28     | 6      | name.com          |
+| worlds.casino      | resell    | —         | —             | 62             | 17     | 6      | Dynadot Inc       |
+| backyard.casino    | available | $17.99    | —             | 80             | 27     | 9      | name.com          |
+| destination.casino | available | $17.99    | —             | 90             | 25     | 11     | name.com          |
+| Keith.casino       | available | $191.98   | —             | 66             | 25     | 5      | namecheap         |
+| schools.casino     | available | $17.99    | —             | 72             | 24     | 7      | name.com          |
+| whats.casino       | available | $12.79    | $159.99       | 58             | 24     | 5      | namesilo          |
+| loans.casino       | available | $12.79    | $159.99       | 58             | 24     | 5      | namesilo          |
+| boats.casino       | available | $17.99    | —             | 52             | 24     | 5      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,102-row public sample | 9,101 live domains                               |
+| 1,000-row public sample | 11,847 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
