@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .casino one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,015 domains · **Median ask:** $30.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/casino`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | cars.casino     | resell    | —         | —             | 66             | 47     | 4      | Sav.com, LLC - 18 |
 | jobs.casino     | premium   | $1,000    | —             | 79             | 42     | 4      | name.com          |
 | coins.casino    | resell    | —         | —             | 56             | 41     | 5      | GoDaddy.com, LLC  |
-| etc.casino      | available | $17.99    | —             | 58             | 34     | 3      | name.com          |
+| etc.casino      | available | $17.99    | —             | 58             | 32     | 3      | name.com          |
 | mall.casino     | resell    | —         | —             | 82             | 29     | 4      | Dynadot Inc       |
 | quotes.casino   | available | $17.99    | —             | 58             | 29     | 6      | name.com          |
 | wheels.casino   | resell    | —         | —             | 76             | 20     | 6      | GoDaddy.com, LLC  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
