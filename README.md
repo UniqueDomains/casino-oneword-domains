@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .casino one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,958 domains · **Median ask:** $12.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/casino`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.casino | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC |
-| ground.casino    | available | $12.79    | $159.99       | high           | low    | 6      | namesilo         |
-| present.casino   | available | $12.79    | $159.99       | high           | low    | 7      | namesilo         |
-| boo.casino       | available | $17.99    | —             | high           | low    | 3      | name.com         |
-| four.casino      | resell    | $17.99    | $236.99       | medium         | low    | 4      | Dynadot Inc      |
-| pot.casino       | premium   | $854      | $854          | high           | low    | 3      | namesilo         |
-| bus.casino       | available | $12.79    | $159.99       | high           | low    | 3      | namesilo         |
-| bag.casino       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
-| dollar.casino    | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
-| but.casino       | available | $12.79    | $159.99       | high           | low    | 3      | namesilo         |
-| bee.casino       | resell    | —         | —             | high           | medium | 3      | Edomains LLC     |
-| abstract.casino  | premium   | $12.79    | $159.99       | high           | low    | 8      | namesilo         |
-| CNN.casino       | available | $12.79    | $159.99       | high           | low    | 3      | namesilo         |
-| bold.casino      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1 |
-| licensed.casino  | premium   | $12.79    | $159.99       | medium         | low    | 8      | namesilo         |
-| cry.casino       | available | $17.99    | —             | high           | low    | 3      | name.com         |
-| boss.casino      | resell    | —         | —             | high           | high   | 4      | Dynadot Inc      |
-| eat.casino       | available | $12.79    | $159.99       | high           | low    | 3      | namesilo         |
-| call.casino      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| feb.casino       | available | $12.79    | $159.99       | high           | low    | 3      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| boo.casino      | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| four.casino     | resell    | $17.99    | $236.99       | medium         | low    | 4      | Dynadot Inc                                               |
+| pot.casino      | premium   | $854      | $854          | high           | low    | 3      | namesilo                                                  |
+| bus.casino      | available | $12.79    | $159.99       | high           | low    | 3      | namesilo                                                  |
+| bag.casino      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| dollar.casino   | premium   | $854      | $854          | high           | low    | 6      | namesilo                                                  |
+| but.casino      | available | $12.79    | $159.99       | high           | low    | 3      | namesilo                                                  |
+| bee.casino      | resell    | —         | —             | high           | medium | 3      | Edomains LLC                                              |
+| abstract.casino | premium   | $12.79    | $159.99       | high           | low    | 8      | namesilo                                                  |
+| CNN.casino      | available | $12.79    | $159.99       | high           | low    | 3      | namesilo                                                  |
+| bold.casino     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                          |
+| licensed.casino | premium   | $12.79    | $159.99       | medium         | low    | 8      | namesilo                                                  |
+| cry.casino      | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| boss.casino     | resell    | —         | —             | high           | high   | 4      | Dynadot Inc                                               |
+| eat.casino      | available | $12.79    | $159.99       | high           | low    | 3      | namesilo                                                  |
+| call.casino     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| feb.casino      | available | $12.79    | $159.99       | high           | low    | 3      | namesilo                                                  |
+| nice.casino     | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| gas.casino      | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| Phil.casino     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASINO One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
