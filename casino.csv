@@ -27,6 +27,7 @@ e32e412e-bbf1-487a-b011-347be4d28ec1,shucks.casino,available,13.99,236.99,medium
 6bff43fe-f9db-42e3-9302-44d541df6c56,fogged.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/08/2026 09:51
 6ef88fab-851b-4a0b-bc9c-7966b7098cd8,fabian.casino,available,6.98,191.98,high,low,6,namecheap,,,17/08/2026 20:10
 9e5f5a96-2dae-4bf1-aca9-aced41850f08,songs.casino,available,6.98,191.98,high,low,5,namecheap,,,25/09/2026 19:03
+39358d1c-1f2f-4cb5-bc8b-e169d4ba5e57,whittier.casino,available,7.72,129.25,medium,low,8,porkbun,,,28/09/2026 10:10
 63c69a1b-75b0-4f55-a75c-801cfada6584,unchanged.casino,available,6.98,191.98,high,low,9,namecheap,,,12/09/2026 00:32
 9f2261b7-4f47-425d-a89d-f7c401fb58e0,wanton.casino,available,6.98,191.98,medium,low,6,namecheap,,,25/08/2026 07:57
 e04abc6d-47e1-40a3-a1c1-e092065d6d19,curable.casino,available,6.98,191.98,high,low,7,namecheap,,,13/08/2026 10:59
@@ -47,11 +48,13 @@ a3a14c32-a1aa-4980-b783-b7e9dfbe1ea7,watermelon.casino,available,12.79,159.99,hi
 9175c20c-9bbc-44c4-8641-16783ff416bc,cosset.casino,available,14.99,159.99,high,low,6,namesilo,,,21/09/2026 13:00
 b4686868-1e26-4276-88ed-fcbc9ba06fcf,pace.casino,available,12.79,159.99,high,low,4,namesilo,,,
 5d707685-de01-4756-a897-5a926af95acd,asocial.casino,available,6.98,191.98,medium,low,7,namecheap,,,07/08/2026 04:36
+ca4943de-5c59-44ed-9c2f-3255ce6dfd87,rochelle.casino,available,6.98,191.98,medium,low,8,namecheap,,,28/09/2026 22:08
 59a919a9-fbd7-4ac0-8238-7e6ad5f3165e,alkyd.casino,available,14.99,159.99,medium,low,5,namesilo,,,18/09/2026 08:33
 02de6d27-fc7a-4356-898c-f7bf7653a54f,dolphin.casino,resell,,,high,low,7,"Spaceship, Inc.",10/03/2026 19:41,10/03/2027 19:41,26/09/2026 05:38
 75db7eb5-1f80-4c05-8b6e-c873f844bdaa,picked.casino,available,12.79,159.99,high,low,6,namesilo,,,
 b90cf97c-c415-42f1-bda9-18ac62204b1f,descent.casino,available,6.98,191.98,high,low,7,namecheap,,,08/09/2026 13:07
 16013838-f67d-426c-a9a3-b25271e6e01d,numbat.casino,available,14.99,159.99,medium,low,6,namesilo,,,22/09/2026 01:07
+f7911805-bd04-4390-b899-3e4a0909c04c,feared.casino,available,15.99,,medium,low,6,unstoppable,,,28/09/2026 11:28
 eda4c942-7e28-497b-90e7-e81c573d4867,faceless.casino,available,6.98,191.98,medium,low,8,namecheap,,,17/08/2026 20:22
 353ff9a4-b086-4c4c-8f09-1041bf673856,anergy.casino,available,14.99,159.99,medium,low,6,namesilo,,,19/09/2026 05:29
 4224c08e-2f4f-4221-87fa-14d5aa0757b8,imprecise.casino,available,6.98,191.98,medium,low,9,namecheap,,,21/08/2026 23:00
@@ -59,36 +62,43 @@ eda4c942-7e28-497b-90e7-e81c573d4867,faceless.casino,available,6.98,191.98,mediu
 b9e5708e-3770-4d94-9a5b-9c668cf33046,tapered.casino,available,6.98,191.98,medium,low,7,namecheap,,,03/09/2026 13:29
 542ef13e-4d12-4cd2-8ce5-0ecb739285f0,until.casino,available,12.79,159.99,medium,low,5,namesilo,,,
 1d6149da-f33e-499b-b864-6163cbc38568,barefoot.casino,available,6.98,191.98,medium,low,8,namecheap,,,08/08/2026 18:54
+9826f222-99f9-42fe-b168-0df2f5b7eaa2,symbols.casino,available,14.99,159.99,medium,low,7,namesilo,,,29/09/2026 04:46
+2a0dd9a2-a4e1-4273-8fa4-58da5f332320,folded.casino,available,6.98,191.98,medium,low,6,namecheap,,,28/09/2026 16:55
 174a4b9c-1bea-42f0-8261-73548f737b36,swimwear.casino,available,14.99,159.99,high,low,8,namesilo,,,22/09/2026 13:39
 c92409ca-3362-435e-99fd-487c2ff045a7,sycamore.casino,available,14.99,159.99,high,low,8,namesilo,,,16/09/2026 23:36
 33faf1c0-963d-403c-b707-96800cd04367,jinxed.casino,available,6.98,191.98,medium,low,6,namecheap,,,21/08/2026 07:53
 2457b5be-49b8-4016-8ba9-e9fc4d41ff82,students.casino,available,6.98,191.98,high,low,8,namecheap,,,25/09/2026 18:00
 2100fa87-0435-4cc5-b387-504ac0ad2270,curst.casino,available,6.98,191.98,medium,low,5,namecheap,,,13/08/2026 11:34
 6d011461-1431-4bcb-b08b-1cc9c3e33e9e,backlash.casino,available,14.99,159.99,high,low,8,namesilo,,,21/09/2026 15:29
+1459cb3b-02e8-4760-a316-130f2483dd67,mounting.casino,available,6.41,129.58,medium,low,8,spaceship,,,29/09/2026 00:26
 6d77d3c9-ffa4-42a8-8a23-fcb194cbb3a3,apprenticeship.casino,available,14.99,159.99,high,low,14,namesilo,,,28/09/2026 02:47
 3be98e11-1798-4e8a-ac0d-1bfbecbeec30,abidance.casino,available,14.99,159.99,medium,low,8,namesilo,,,16/09/2026 15:33
 707d7774-a893-4f7a-b533-1930b80f0327,scotchtape.casino,available,14.99,159.99,high,low,11,namesilo,,,16/09/2026 11:38
-fafcc029-74c0-4f22-97b6-861cb4e9a4da,background.casino,available,12.79,159.99,high,low,10,namesilo,,,
+fafcc029-74c0-4f22-97b6-861cb4e9a4da,background.casino,available,125.2,125.2,high,low,10,cloudflare,,,29/09/2026 00:20
 d80fdab4-1791-4804-95c0-de15c18c0cea,leroy.casino,available,6.98,191.98,medium,low,5,namecheap,,,25/09/2026 15:35
 4ecc35a7-4501-4f78-981a-80bcc4ef7cc7,leftish.casino,available,6.98,191.98,medium,low,7,namecheap,,,22/08/2026 22:47
 2f33cb1b-00f8-4d91-b833-db6fdbe6670e,clinics.casino,available,6.98,191.98,medium,low,7,namecheap,,,20/09/2026 12:34
 1aba6baa-2d77-4680-9596-e4ed46b25e30,from.casino,available,6.98,191.98,high,low,4,namecheap,,,08/09/2026 08:57
 cd7868cd-3d6c-4611-9331-3c0a128c8d5e,soddy.casino,available,14.99,159.99,medium,low,5,namesilo,,,17/09/2026 09:26
+46e15369-bd78-444b-a9bc-29352107bbc3,schuylkill.casino,available,6.41,129.58,medium,low,10,spaceship,,,28/09/2026 16:50
 0bb86a6b-cd56-4645-9b0b-7f3ba41b38a6,experienced.casino,available,12.79,159.99,high,low,11,namesilo,,,
 c09f4f20-8aa4-4c6b-a543-eb05a3acd31a,oppressed.casino,available,6.98,191.98,medium,low,9,namecheap,,,04/09/2026 16:50
 cd939308-eefb-457c-ad7d-a0146769c932,untethered.casino,available,6.98,191.98,medium,low,10,namecheap,,,12/09/2026 21:16
+acf09fbb-a21c-42f1-9fe0-d10cb7166057,mandela.casino,available,7.71,133.97,high,low,7,dynadot,,,28/09/2026 14:49
 b5fbca84-8a35-46d4-a886-1635980eb5ea,kurosawa.casino,available,13.99,236.99,medium,low,8,name.com,,,18/09/2026 00:08
 1f85183d-c87b-4be5-84b5-f4afbd4dc6c0,acquirable.casino,available,6.98,191.98,medium,low,10,namecheap,,,
 efcee82e-8a8a-43c6-91fc-4fb82282af29,columbine.casino,available,14.99,159.99,medium,low,9,namesilo,,,19/09/2026 23:13
 1acf12c9-2ead-41e3-be99-df7581bedb82,munition.casino,available,14.99,159.99,medium,low,8,namesilo,,,20/09/2026 07:44
+d008b3b1-48c7-4b9d-a28a-a0db582b68be,buckle.casino,available,6.41,129.58,medium,low,6,spaceship,,,28/09/2026 18:30
 c5177e48-c529-4fda-91a3-5f3657b8b0fe,hyaline.casino,available,6.98,191.98,medium,low,7,namecheap,,,21/08/2026 16:06
 e7438217-4cc5-4279-a2d3-5bc901500ce1,eddie.casino,available,12.79,159.99,high,low,5,namesilo,,,
-9c977ca8-d0c3-40d7-8c47-09e605e461d7,locally.casino,available,17.99,,high,low,7,name.com,,,
+9c977ca8-d0c3-40d7-8c47-09e605e461d7,locally.casino,available,6.41,129.58,medium,low,7,spaceship,,,28/09/2026 16:11
 b1a650fb-f772-4501-ac0c-46dc82123c2d,aton.casino,available,6.98,191.98,medium,low,4,namecheap,,,20/09/2026 20:06
 0d87f9e3-0a10-48ea-ac92-65432cbe6fc1,keeping.casino,available,12.79,159.99,high,low,7,namesilo,,,
 4ed17d91-597b-4e4e-bcbf-64f8dc4df037,basal.casino,available,6.98,191.98,medium,low,5,namecheap,,,08/08/2026 21:24
 28e4f317-f5de-4211-bbb4-5bf3640c392a,investors.casino,available,6.98,191.98,high,low,9,namecheap,,,
 368bd045-c2db-43cb-8d5e-a691e3129d05,ascension.casino,available,6.98,191.98,high,low,9,namecheap,,,07/08/2026 00:30
+a2e791ac-bb2e-45c9-853a-e4b931c56e7b,sexuality.casino,available,14.99,159.99,high,low,9,namesilo,,,28/09/2026 10:54
 fa2edc80-7464-4d23-a8ff-6d7789a0c209,beelzebub.casino,available,14.99,159.99,medium,low,9,namesilo,,,23/09/2026 01:23
 9e31c80f-7a2a-4e89-8372-338ae1e9a462,achieve.casino,available,15.99,,high,low,7,unstoppable,,,28/09/2026 03:16
 8bb74680-a898-436b-8372-2da24b8aa427,deftly.casino,available,6.98,191.98,medium,low,6,namecheap,,,14/09/2026 11:20
@@ -96,9 +106,10 @@ fa2edc80-7464-4d23-a8ff-6d7789a0c209,beelzebub.casino,available,14.99,159.99,med
 91490679-4646-4fc5-90e1-eaa2610be2ae,harare.casino,available,6.98,191.98,medium,low,6,namecheap,,,24/09/2026 12:36
 92c08755-e3f5-4061-b668-2edb9006a240,platinum.casino,resell,,,high,low,8,"Spaceship, Inc.",05/05/2025 15:15,05/05/2027 15:15,26/09/2026 08:12
 0399c784-a098-49d3-ae2c-bc53672b3102,collect.casino,available,6.98,191.98,high,low,7,namecheap,,,12/08/2026 15:03
-335be1b9-ff96-41a0-8019-fa49e44fbb12,allies.casino,available,12.79,159.99,high,low,6,namesilo,,,
+335be1b9-ff96-41a0-8019-fa49e44fbb12,allies.casino,available,125.2,125.2,high,low,6,cloudflare,,,28/09/2026 20:34
 b3b41d05-8752-4d97-8e0c-50e614b829f9,pouring.casino,available,6.98,191.98,high,low,7,namecheap,,,20/08/2026 21:01
 b7a8dd7d-188c-4989-bc6d-9f4dffb077a7,unrevealed.casino,available,6.98,191.98,medium,low,10,namecheap,,,12/09/2026 08:09
+03e987a6-48e2-49da-a41c-e52d5626f9ad,trotsky.casino,available,14.99,159.99,medium,low,7,namesilo,,,28/09/2026 19:41
 e6dfbd5e-fa2d-4b8b-976b-22af0666fd52,limestone.casino,available,12.79,159.99,high,low,9,namesilo,,,
 f6d8d1c7-e835-4434-b96b-ea8f9f8803f3,spots.casino,available,14.99,159.99,high,low,5,namesilo,,,27/09/2026 04:00
 96b78666-2b31-4dad-a9d9-b545073689d5,tutorial.casino,available,6.98,191.98,high,low,8,namecheap,,,11/09/2026 21:31
@@ -108,6 +119,7 @@ b893ae1a-50fe-4565-bcec-f6fc9891985e,partisan.casino,available,6.98,191.98,high,
 f8f2d50b-5626-48a7-a19c-59078a2aec8e,gonzalez.casino,available,14.99,159.99,high,low,8,namesilo,,,25/09/2026 16:13
 ef60fe07-3e27-457c-862e-d7a588a320dd,waitress.casino,available,6.41,129.58,high,low,8,spaceship,,,27/09/2026 16:14
 1a763b33-2707-4a9e-9f6f-48fd53d8ccfd,nafud.casino,available,14.99,159.99,medium,low,5,namesilo,,,19/09/2026 00:44
+5144fefc-e448-4927-b756-8b1c03a97082,seating.casino,available,125.2,125.2,high,low,7,cloudflare,,,29/09/2026 02:06
 71bd5928-a1be-4ea9-a321-0764adb46cef,capricious.casino,available,6.98,191.98,medium,low,10,namecheap,,,11/08/2026 18:04
 b6018c77-b8fb-4721-8b62-565ce9823a2c,toiling.casino,available,6.98,191.98,medium,low,7,namecheap,,,14/08/2026 20:00
 28d3a7e5-ba7f-4f2b-80a6-8377218ddc1a,award.casino,available,14.99,159.99,high,low,5,namesilo,,,27/09/2026 06:31
@@ -129,6 +141,7 @@ ff69ab7a-b10d-4456-8479-7f6ea2eeb157,fueled.casino,available,6.98,191.98,medium,
 8ca294a2-eca0-42db-bfab-765909fa7edc,apodemus.casino,available,6.98,191.98,medium,low,8,namecheap,,,19/09/2026 18:19
 56916e7f-5b75-4e1a-ac0f-904cc47d0a42,penultima.casino,available,6.98,191.98,medium,low,9,namecheap,,,08/09/2026 15:14
 f21938eb-cc51-46b1-8422-1c8dd811a715,bolshevik.casino,available,6.98,191.98,high,low,9,namecheap,,,10/08/2026 17:50
+32ed43eb-e9c1-41b0-9aa7-8e0a1ad581c2,skiing.casino,available,7.72,129.25,high,low,6,porkbun,,,28/09/2026 10:57
 ef1fd27b-3bd9-4bcb-84ce-d43ae30963aa,miotic.casino,available,6.98,191.98,medium,low,6,namecheap,,,25/08/2026 01:00
 550042a7-0662-410f-bca1-eddece6fe7c7,husband.casino,available,12.79,159.99,high,low,7,namesilo,,,
 49254049-ff28-4bbb-bded-f8582bdddc7d,typic.casino,available,6.98,191.98,medium,low,5,namecheap,,,11/09/2026 22:29
@@ -137,6 +150,7 @@ fcd0654e-b75f-4165-a205-ff5f67c36762,witch.casino,available,6.98,191.98,high,low
 24c89ad8-78e4-4db1-b3f7-b210af92d310,germy.casino,available,6.98,191.98,medium,low,5,namecheap,,,18/08/2026 22:53
 b58abb98-a6aa-406d-ab15-1f73029a1d54,prosy.casino,available,6.98,191.98,medium,low,5,namecheap,,,08/09/2026 12:32
 4c789aa8-2ddb-4e64-81b9-a06123e304cc,moneron.casino,available,6.98,191.98,medium,low,7,namecheap,,,25/08/2026 04:30
+eba2f723-e430-4e53-b591-6b087d1cacd9,behold.casino,available,7.71,133.97,high,low,6,dynadot,,,28/09/2026 15:34
 da1eb50e-d59c-4af9-8af9-c316d625cf57,shear.casino,available,12.79,159.99,medium,low,5,namesilo,,,
 86ebb97c-0092-4114-9695-b936ed03b333,binge.casino,available,14.99,159.99,high,low,5,namesilo,,,23/09/2026 17:18
 40d9aff6-706a-4698-b7dd-77a4636addac,cloudlike.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/08/2026 12:38
@@ -148,6 +162,7 @@ df44f652-2cb2-4244-8969-1fa407614518,delicacy.casino,available,13.99,236.99,high
 b7029f1a-24b8-4071-8161-6b8702eab76d,exercising.casino,available,12.79,159.99,high,low,10,namesilo,,,
 a26f548c-6eea-4a01-8994-d6ffb353c9cf,imperative.casino,available,6.98,191.98,high,low,10,namecheap,,,08/09/2026 04:44
 048d810f-29ff-424a-8a67-f4ab5d3159c2,recessions.casino,available,14.99,159.99,low,low,10,namesilo,,,21/09/2026 06:29
+672da0f5-1d1e-4d44-8b10-c5ff69897ad5,bottled.casino,available,6.41,129.58,medium,low,7,spaceship,,,29/09/2026 03:12
 0cdfe49f-7a7f-4670-afaf-5092b31001cd,puglia.casino,available,14.99,159.99,high,low,6,namesilo,,,19/09/2026 22:41
 c794d99c-cce3-4d5e-9bb2-d44425e643b6,agreeably.casino,available,6.98,191.98,medium,low,9,namecheap,,,13/09/2026 18:22
 f68a814a-082b-491c-a44c-83aaae630722,screecher.casino,available,14.99,159.99,medium,low,9,namesilo,,,22/09/2026 17:04
@@ -155,10 +170,12 @@ f68a814a-082b-491c-a44c-83aaae630722,screecher.casino,available,14.99,159.99,med
 2e8532ad-650a-43fd-9a21-34153d4b07a0,thinly.casino,available,6.98,191.98,medium,low,6,namecheap,,,11/09/2026 13:26
 098ec0ed-bbcd-4955-9dea-74c6c0382570,abomasum.casino,available,14.99,159.99,medium,low,8,namesilo,,,16/09/2026 16:29
 dcc23b7f-a47f-4dbe-b82d-6d14db2a6ccb,brumal.casino,available,6.98,191.98,medium,low,6,namecheap,,,11/08/2026 06:36
+5065e3cd-c554-46ad-bb61-e390a8b6933d,sacrifices.casino,available,125.2,125.2,low,low,10,cloudflare,,,28/09/2026 17:47
 66b5e1e2-5873-4f87-9b8c-9f72495f5743,choral.casino,available,6.98,191.98,high,low,6,namecheap,,,12/08/2026 07:03
 f30306e6-c5d4-4aae-af77-97c72b8c7585,sep.casino,available,12.79,159.99,high,low,3,namesilo,,,
-3c01c6d7-2d95-433a-a59a-f3d24a4e950d,bump.casino,available,12.79,159.99,high,low,4,namesilo,,,
+3c01c6d7-2d95-433a-a59a-f3d24a4e950d,bump.casino,available,14.99,159.99,high,low,4,namesilo,,,29/09/2026 05:15
 b4f574c0-6349-406c-ae6c-010ad5b1713e,treasonous.casino,available,6.98,191.98,medium,low,10,namecheap,,,17/08/2026 21:20
+5e01d377-dd17-489e-a38b-03cd649474cd,elise.casino,available,6.41,129.58,medium,low,5,spaceship,,,28/09/2026 21:52
 be288337-4733-4e84-b399-46c06014b56c,estates.casino,available,14.99,159.99,medium,low,7,namesilo,,,18/09/2026 06:36
 5a04d715-e95f-4935-9b78-065c1c22911f,anchorite.casino,available,14.99,159.99,medium,low,9,namesilo,,,19/09/2026 03:44
 95aa1a0e-290d-4ef6-8943-70dde624ca04,underarm.casino,available,6.98,191.98,medium,low,8,namecheap,,,12/09/2026 07:21
@@ -172,6 +189,7 @@ af6d3912-2a04-4df7-99a1-5501312ccd35,throats.casino,available,6.98,191.98,medium
 e4ef8a11-bcd1-4c03-a1ed-ad2fede3d9b2,uncommon.casino,resell,,,high,low,8,"GoDaddy.com, LLC",15/11/2025 12:47,15/11/2026 12:47,26/09/2026 09:50
 a689ba92-046a-4e01-ab4e-693a26b34bd4,reentrant.casino,available,6.98,191.98,medium,low,10,namecheap,,,09/09/2026 10:51
 62e1f9f1-d853-4c59-8a8e-e39e2f406bdb,ruthenium.casino,available,14.99,159.99,medium,low,9,namesilo,,,20/09/2026 23:08
+82de69cd-505c-4975-97b9-577d3ded957b,earning.casino,available,6.98,191.98,medium,low,7,namecheap,,,28/09/2026 13:27
 ca61d1da-a09d-44fd-9988-c72790c84f21,nibbed.casino,available,6.98,191.98,low,low,6,namecheap,,,03/09/2026 16:57
 47833b55-1ced-42fa-a889-ea087d4ba92f,elfish.casino,available,6.98,191.98,medium,low,6,namecheap,,,16/08/2026 03:41
 1ba9ab60-aab8-47bb-ac28-225a89ff7c02,excursion.casino,available,12.79,159.99,high,low,9,namesilo,,,
@@ -179,6 +197,7 @@ c76a5d03-f09c-4784-81ce-3efb6f94d180,blond.casino,available,14.99,159.99,high,lo
 4babe9c8-92a6-4d58-8fa2-3d4146f0be09,yearling.casino,available,6.98,191.98,high,low,8,namecheap,,,22/09/2026 00:38
 ff808a95-5cca-4891-95b8-2852dd1cd094,sedated.casino,available,6.98,191.98,low,low,7,namecheap,,,16/09/2026 18:04
 e63d144a-7538-42ea-91e9-601d12eeda0c,kigali.casino,available,14.99,159.99,medium,low,6,namesilo,,,24/09/2026 12:21
+e3e79592-a99a-4002-ad12-b1292b59ad3a,exams.casino,available,6.98,191.98,medium,low,5,namecheap,,,28/09/2026 23:32
 36e288b6-f2c0-4b46-ba8a-e8230c287398,topology.casino,available,6.98,191.98,high,low,8,namecheap,,,19/09/2026 01:59
 184ce3d5-2302-4e6e-a3ab-741315b4b0d6,shoes.casino,available,12.79,159.99,high,low,5,namesilo,,,
 46417065-0278-4090-a761-5b285e060d54,lordless.casino,available,6.98,191.98,low,low,8,namecheap,,,24/08/2026 09:52
@@ -186,7 +205,7 @@ c1019c20-9704-4ee2-bef4-eabc7385ae2e,livid.casino,available,6.98,191.98,medium,l
 3eeef505-b529-4751-b5da-793268725b1c,zapotec.casino,available,6.98,191.98,high,low,7,namecheap,,,13/09/2026 15:07
 9a96ec1a-44e3-4c51-91fa-e0643e88ae85,tabs.casino,available,14.99,159.99,medium,low,4,namesilo,,,20/09/2026 01:36
 67134486-133c-46a8-8654-ac61c359253f,intragroup.casino,available,6.98,191.98,medium,low,10,namecheap,,,22/08/2026 08:41
-6f613328-5cab-43c0-a3ef-784d66b326f8,word.casino,available,12.79,159.99,high,low,4,namesilo,,,
+6f613328-5cab-43c0-a3ef-784d66b326f8,word.casino,available,7.72,129.25,high,low,4,porkbun,,,29/09/2026 02:21
 4eae084d-ce21-43b1-ba18-eedf5fabca04,observer.casino,available,14.99,159.99,high,low,8,namesilo,,,27/09/2026 03:30
 926543b4-fb79-4ea7-8490-b3e7793b1797,granth.casino,available,14.99,159.99,medium,low,6,namesilo,,,17/09/2026 08:05
 8acb38a4-5d5e-4d5e-aa31-1c5a61ab17f6,days.casino,available,,,high,low,4,,,,
@@ -197,6 +216,7 @@ d221d01a-0597-4374-86c0-e844c0a72631,comfy.casino,available,6.98,191.98,high,low
 3e0e13d0-71ab-497f-a79f-48d2185a3702,helpful.casino,available,6.98,191.98,high,low,7,namecheap,,,21/08/2026 06:37
 7f42a582-c3f6-4560-a9cc-135ccc351902,exposit.casino,available,6.98,191.98,medium,low,7,namecheap,,,15/08/2026 23:47
 6cd563a5-6cf8-4363-98ae-005f2c84f588,bicycling.casino,available,14.99,159.99,high,low,9,namesilo,,,23/09/2026 13:28
+880e8db4-70e1-4798-8645-82a0b847c01a,manu.casino,available,15.99,,high,low,4,unstoppable,,,28/09/2026 11:11
 0b4767e8-e8c2-47a0-9039-4fb65eab64cf,underlying.casino,available,6.98,191.98,high,low,10,namecheap,,,21/08/2026 22:41
 ddcd3c22-d233-4dcb-8c27-eda2061f09ed,impute.casino,available,14.99,159.99,medium,low,6,namesilo,,,21/09/2026 02:18
 6d52040d-0707-4a01-827c-a8012e66fddc,columnar.casino,available,6.98,191.98,medium,low,8,namecheap,,,12/08/2026 18:14
@@ -217,7 +237,7 @@ a18110c3-61ab-48fa-a1c0-3c67529f6235,yeller.casino,available,14.99,159.99,medium
 fbcbc342-350d-4f40-aef1-8d2a8b62e8b0,leal.casino,available,6.98,191.98,medium,low,4,namecheap,,,22/08/2026 22:03
 f61cf7b5-82aa-41c5-b81c-9949452fa74c,arrhenius.casino,available,14.99,159.99,high,low,9,namesilo,,,20/09/2026 09:11
 5d2bc2e2-b049-481b-b80b-f21d65801a34,checker.casino,available,14.99,159.99,high,low,7,namesilo,,,24/09/2026 13:59
-d9e4bb5b-d54e-45a3-88d3-a245f218653f,beneath.casino,available,12.79,159.99,medium,low,7,namesilo,,,
+d9e4bb5b-d54e-45a3-88d3-a245f218653f,beneath.casino,available,6.98,191.98,medium,low,7,namecheap,,,28/09/2026 12:25
 0b2c5c14-05da-4434-9f55-72797c4ec295,waxy.casino,available,6.98,191.98,medium,low,4,namecheap,,,09/08/2026 14:13
 0adf2732-5e21-4b97-8f0d-13aeb48e4f71,fancied.casino,available,6.98,191.98,high,low,7,namecheap,,,17/08/2026 20:17
 a7bff8de-c15a-43f0-90f4-50138b0e0543,arthropod.casino,available,14.99,159.99,medium,low,9,namesilo,,,20/09/2026 10:41
@@ -227,10 +247,11 @@ a7d0fc09-5c56-485a-9c5d-e4f212651737,beany.casino,available,6.98,191.98,medium,l
 a8869086-7779-4ccc-a993-f2dc84298b69,adobo.casino,available,14.99,159.99,medium,low,5,namesilo,,,17/09/2026 09:29
 097d8f59-0b3b-40cb-8cbe-2af2f0c964a5,migrator.casino,available,6.98,191.98,medium,low,8,namecheap,,,24/08/2026 22:51
 6c6ba816-4e05-473b-b579-9f5569952139,came.casino,available,12.79,159.99,high,low,4,namesilo,,,
+33655c03-aeba-4046-b8aa-e529122f5131,begun.casino,available,6.41,129.58,medium,low,5,spaceship,,,28/09/2026 08:15
 66c3bd98-4b22-415a-be07-69a2eb0ed598,reanimated.casino,available,6.98,191.98,medium,low,10,namecheap,,,09/09/2026 10:58
 2ea20c56-a575-4cc4-ab7c-cb9c3b12bc15,cuba.casino,available,,,high,high,4,,,,
 fe5fd78b-313f-4d29-8c2d-132a8af49f45,kabul.casino,available,6.41,129.58,medium,low,5,spaceship,,,27/09/2026 12:08
-ea37dde0-4dd8-4603-861b-a255e93a56eb,browse.casino,available,12.79,159.99,high,low,6,namesilo,,,
+ea37dde0-4dd8-4603-861b-a255e93a56eb,browse.casino,available,14.99,159.99,high,low,6,namesilo,,,29/09/2026 04:39
 0f1c470b-e840-4fc7-835a-282b9c3535b7,boondocks.casino,available,14.99,159.99,medium,low,9,namesilo,,,21/09/2026 14:32
 f3054655-2339-474a-a630-f5b525487e0e,cyber.casino,resell,,,high,medium,5,,,,27/09/2026 06:18
 e0aa7138-77d3-4abd-8725-32d60bed1ed1,psychical.casino,available,6.98,191.98,medium,low,9,namecheap,,,09/09/2026 05:07
@@ -268,11 +289,13 @@ d546c1fd-9271-443a-bb9a-4054931d41a6,fear.casino,available,14.99,159.99,high,low
 8ae586cd-51ea-4a5b-89bf-2519c0068564,cherubic.casino,available,6.98,191.98,high,low,8,namecheap,,,12/08/2026 04:25
 25bf7ae4-d6a1-471f-85f6-76a03bb1ced3,ascription.casino,available,14.99,159.99,medium,low,10,namesilo,,,20/09/2026 13:27
 ef36e21d-a751-4ccf-9116-5bd3b0cfcd87,normative.casino,available,6.98,191.98,medium,low,9,namecheap,,,03/09/2026 21:19
+b71c8113-c873-493b-8836-82cfa6018beb,frontier.casino,resell,,,high,medium,8,,,,28/09/2026 09:50
 86b90629-1ea3-47aa-abd7-917de2fc31f7,bribable.casino,available,6.98,191.98,medium,low,8,namecheap,,,11/08/2026 03:42
 82d6ca82-e9ac-4e08-be9f-8d72b8857fb0,gus.casino,available,13.99,236.99,high,low,3,name.com,,,25/09/2026 15:07
+2cefbe16-6ccb-4295-94a9-d0955cf29394,zane.casino,available,125.2,125.2,high,low,4,cloudflare,,,29/09/2026 04:01
 50c96736-9789-427b-81c3-625e1fb2f4c7,hole.casino,available,12.79,159.99,high,low,4,namesilo,,,
 cebfe1ab-7e15-4be3-995b-7cda51cd52eb,anarchist.casino,available,14.99,159.99,high,low,9,namesilo,,,19/09/2026 02:24
-9fd82396-7d4c-4f08-9701-e2e975100c7e,suite.casino,available,14.99,159.99,high,low,5,namesilo,,,26/09/2026 00:45
+9fd82396-7d4c-4f08-9701-e2e975100c7e,suite.casino,available,6.41,129.58,high,low,5,spaceship,,,28/09/2026 22:47
 ba9ffbaf-5731-4f1d-9b7f-85e9cacfd503,buried.casino,available,14.99,159.99,medium,low,6,namesilo,,,23/09/2026 11:29
 1149e92f-5e96-4544-9872-b1f864e0906e,amenia.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/09/2026 18:47
 80338523-b84b-4ede-8010-e9aaa1d86900,lesser.casino,available,6.98,191.98,medium,low,6,namecheap,,,23/08/2026 00:24
@@ -285,6 +308,7 @@ e4d1a2da-34f6-494a-a8d0-eade5dbc4e27,due.casino,available,6.98,191.98,high,low,3
 bedac438-335d-439e-bbea-c908a402e071,absorbed.casino,available,14.99,159.99,high,low,8,namesilo,,,21/09/2026 14:58
 960db140-a9d1-43ea-b584-792c587847fd,haywire.casino,available,6.98,191.98,medium,low,7,namecheap,,,
 e447b500-a268-4e2b-be01-f0065736208a,doob.casino,available,6.98,191.98,medium,low,4,namecheap,,,21/09/2026 18:37
+b666c04a-5cc3-46bf-9a58-789da4152ad5,voss.casino,available,125.2,125.2,medium,low,4,cloudflare,,,29/09/2026 03:14
 f8b492c8-d674-4e86-9994-99cf0757a58a,valerie.casino,available,14.99,159.99,high,low,7,namesilo,,,26/09/2026 03:44
 d0da2b78-3afd-4d41-b63d-6d8de4711047,appetency.casino,available,14.99,159.99,medium,low,9,namesilo,,,19/09/2026 20:43
 d2166aad-5341-4fe5-8226-0c17df9ffb8c,any.casino,resell,,,high,medium,3,Dynadot Inc,08/01/2026 11:37,08/01/2027 11:37,26/09/2026 03:55
@@ -292,9 +316,11 @@ d2166aad-5341-4fe5-8226-0c17df9ffb8c,any.casino,resell,,,high,medium,3,Dynadot I
 cccb0e57-466c-402c-8f45-c9269dba01ab,preference.casino,available,12.79,159.99,high,low,10,namesilo,,,
 1c9f8684-0dc6-401e-9353-1c30576ec577,loved.casino,available,14.99,159.99,high,low,5,namesilo,,,25/09/2026 14:27
 f768256c-38cc-47be-8ee8-f4a4659fe4d3,surd.casino,available,6.98,191.98,medium,low,4,namecheap,,,11/09/2026 03:41
+65b4716e-51fc-4846-9192-39e72ac42ce7,travers.casino,available,125.2,125.2,medium,low,7,cloudflare,,,28/09/2026 16:18
 4eeca48d-7f10-49dc-9c65-6378d3adc3c0,invention.casino,available,14.99,159.99,high,low,9,namesilo,,,28/09/2026 02:09
 43acb72d-ecf4-4940-a096-965f1b32b632,unforeseen.casino,available,6.98,191.98,high,low,10,namecheap,,,04/09/2026 18:50
 4f69b9de-c37e-47ea-abfa-96cfdc6d6f3c,violently.casino,available,14.99,159.99,medium,low,9,namesilo,,,16/09/2026 11:00
+1eeb134a-4336-4d53-b15f-69236ad38122,gresham.casino,available,15.99,,medium,low,7,unstoppable,,,29/09/2026 01:08
 09b1b13d-27a1-472d-a178-51b0d19bbb21,audiology.casino,available,14.99,159.99,medium,low,9,namesilo,,,21/09/2026 02:56
 76a4d38b-86f6-45ff-a77c-4aafecd0bf0d,libidinous.casino,available,6.98,191.98,medium,low,10,namecheap,,,22/08/2026 20:09
 f8551f53-8e7e-49aa-b0ad-e14ad62f6352,irons.casino,available,12.79,159.99,medium,low,5,namesilo,,,
@@ -309,6 +335,7 @@ d17eec30-a991-42d5-87bd-9ada82313e84,trevor.casino,available,6.98,191.98,high,lo
 a8258572-a1b3-49e8-b8a8-112d3a682d24,temporary.casino,available,14.99,159.99,high,low,9,namesilo,,,25/09/2026 07:53
 029f78d8-9b0c-4a4c-ab9c-2dda220279ec,swagman.casino,available,6.98,191.98,medium,low,7,namecheap,,,11/09/2026 05:01
 71f94a6b-58bf-402a-8f35-a0225ceb39c2,congruous.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/08/2026 21:56
+b4130d6e-247c-4401-ab43-3002b2ea9d4c,bala.casino,available,14.99,159.99,medium,low,4,namesilo,,,28/09/2026 22:20
 420f2bf8-f8f9-4245-973a-d41a3b36884c,ascensive.casino,available,6.98,191.98,medium,low,9,namecheap,,,07/08/2026 00:46
 85bb2fde-59d4-4a9f-a4db-b600b50e0cf3,coniferous.casino,available,6.98,191.98,high,low,10,namecheap,,,12/08/2026 20:37
 f069d760-4c46-4502-a865-13fbad083148,zealot.casino,available,6.98,191.98,medium,low,6,namecheap,,,08/09/2026 02:10
@@ -337,21 +364,24 @@ edeb4220-fbef-4996-b8fd-124331b1c012,additive.casino,available,6.98,191.98,high,
 6e7d193a-136d-4bcc-8408-29626dcfc20f,undesirable.casino,available,12.79,159.99,medium,low,11,namesilo,,,
 bbe45137-f201-4a82-9e3a-63c96625baca,lowered.casino,available,14.99,159.99,medium,low,7,namesilo,,,25/09/2026 15:26
 65ba7668-6aba-47d8-90d1-1a99bff15abd,princely.casino,available,6.98,191.98,high,low,8,namecheap,,,14/08/2026 01:00
-06ec7ede-3b6c-4348-8e68-ea693f9e8695,somehow.casino,available,17.99,,high,low,7,name.com,,,
+06ec7ede-3b6c-4348-8e68-ea693f9e8695,somehow.casino,available,14.99,159.99,medium,low,7,namesilo,,,28/09/2026 15:41
 16c63a73-7b19-4a99-84da-03c6d5361c58,norfolk.casino,available,12.79,159.99,high,low,7,namesilo,,,
-530e2958-58d0-4559-b421-0450f11abb46,briefcase.casino,available,17.99,,high,low,9,name.com,,,
+530e2958-58d0-4559-b421-0450f11abb46,briefcase.casino,available,6.41,129.58,high,low,9,spaceship,,,29/09/2026 04:11
+35478d0b-4fc4-4346-83ce-bab53112c11d,readings.casino,available,14.99,159.99,medium,low,8,namesilo,,,28/09/2026 23:42
 1496be74-0c27-4270-9327-571a7652ca0a,vaporized.casino,available,6.98,191.98,medium,low,9,namecheap,,,18/08/2026 20:28
 6e8ce8ed-d45b-4b83-b871-d0ed2b713446,parked.casino,available,6.98,191.98,high,low,6,namecheap,,,08/09/2026 01:36
 e279c5f3-0a3c-40b1-82c6-2a19beaba884,orders.casino,available,6.98,191.98,high,low,6,namecheap,,,18/09/2026 14:04
 27c22766-3ab6-42f0-8268-4a9485c152b9,airflow.casino,available,14.99,159.99,high,low,7,namesilo,,,17/09/2026 22:13
 8dc3ee1c-dec6-419e-87e2-168d5fa5b5f8,clv.casino,available,6.98,191.98,high,low,3,namecheap,,,
 52616cc9-cd69-4b46-af9a-a119ceec6398,camisole.casino,available,14.99,159.99,high,low,8,namesilo,,,24/09/2026 11:52
-52a4c63b-6bc1-4a79-a0e6-8abded1b7b09,worse.casino,available,12.79,159.99,high,low,5,namesilo,,,
+951f451d-0342-4d71-9fd1-3864e1e0fa77,builds.casino,available,125.2,125.2,medium,low,6,cloudflare,,,28/09/2026 17:56
+52a4c63b-6bc1-4a79-a0e6-8abded1b7b09,worse.casino,available,14.99,159.99,high,low,5,namesilo,,,28/09/2026 10:56
 e6799c4f-640e-4d37-a1e2-a48e76e2dacf,plane.casino,available,6.98,191.98,high,low,5,namecheap,,,24/09/2026 19:36
 999fd44b-7f4d-41fc-b5a9-5c764ba87ef5,pages.casino,available,14.99,159.99,high,low,5,namesilo,,,17/09/2026 10:38
 80e4823f-de55-47ce-a0fe-894febb2fd07,deadlocked.casino,available,13.99,236.99,medium,low,10,name.com,,,13/08/2026 19:27
 5ee2cc28-664c-4edc-a442-3f049fd1c72e,unreactive.casino,available,6.98,191.98,medium,low,10,namecheap,,,12/09/2026 17:50
-dd273f9c-bf70-4d3b-a4a0-05bd33c8c3d3,labor.casino,available,17.99,,high,low,5,name.com,,,
+01080a34-005f-4e2d-be16-b55f927b9dc0,assassination.casino,available,6.41,129.58,medium,low,13,spaceship,,,28/09/2026 11:16
+dd273f9c-bf70-4d3b-a4a0-05bd33c8c3d3,labor.casino,available,15.99,,high,low,5,unstoppable,,,28/09/2026 07:28
 30819f0e-30ff-4e1c-a59b-244049e6223a,offroader.casino,available,14.99,159.99,medium,low,10,namesilo,,,18/09/2026 09:00
 091cb4b3-facc-4acd-b210-0e014c3793ef,fused.casino,available,14.99,159.99,high,low,5,namesilo,,,22/09/2026 03:03
 e885677f-9511-4968-b4f1-cbf9f644703a,amos.casino,available,14.99,159.99,high,low,4,namesilo,,,18/09/2026 22:51
@@ -370,7 +400,7 @@ a51d3c65-f79c-423d-893b-995bc720d050,shaper.casino,available,12.79,159.99,high,l
 b006a3ad-cc84-419e-9a2c-569d622a29e1,drunken.casino,available,6.98,191.98,medium,low,7,namecheap,,,09/08/2026 19:02
 d3d00626-e6e0-4124-b528-ee6ae33742bd,bbs.casino,available,6.98,191.98,high,low,3,namecheap,,,22/09/2026 18:34
 6f7810d2-5a3e-4df5-b8b4-265d9bc3d3ff,roberts.casino,available,14.99,159.99,high,low,7,namesilo,,,22/09/2026 09:19
-f34ff5fe-e98c-402f-8839-b54eeaaf8279,kinda.casino,available,17.99,,high,low,5,name.com,,,
+f34ff5fe-e98c-402f-8839-b54eeaaf8279,kinda.casino,available,6.41,129.58,high,low,5,spaceship,,,28/09/2026 16:02
 b14b2bd8-81d7-4885-b1f3-f1d6f66a228c,limits.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/09/2026 15:06
 1063e821-8642-46b8-807f-a0c199ff2580,porch.casino,available,125.2,125.2,high,low,5,cloudflare,,,27/09/2026 15:20
 32c0d0e8-b9da-4cd2-b652-26598cbe56ad,encouraging.casino,available,12.79,159.99,high,low,11,namesilo,,,
@@ -401,7 +431,7 @@ c51baa83-3b5b-428f-993c-24650a44ea2a,favorable.casino,available,14.99,159.99,hig
 c6d19596-ab7b-4a6f-a63f-26709249ab8b,exclaims.casino,available,14.99,159.99,medium,low,8,namesilo,,,19/09/2026 23:36
 ef621201-c3bc-48b2-9944-3d05ca989af8,trend.casino,resell,,,high,low,5,Dynadot Inc,19/03/2026 19:27,19/03/2027 19:27,27/09/2026 20:56
 a9f580a5-8e0c-4468-b3f2-7d0e8eac25cd,antipasto.casino,available,14.99,159.99,medium,low,9,namesilo,,,19/09/2026 14:52
-104cde36-06c3-4a14-a451-c7bc65ab3f74,barter.casino,available,12.79,159.99,high,low,6,namesilo,,,
+104cde36-06c3-4a14-a451-c7bc65ab3f74,barter.casino,available,14.99,159.99,high,low,6,namesilo,,,29/09/2026 01:18
 7b1bfa59-b1ce-41e6-ab4b-6b704da2624b,afterward.casino,available,6.98,191.98,medium,low,9,namecheap,,,
 3b5538cd-8f5f-40ca-a122-77013289b937,easygoing.casino,available,6.98,191.98,high,low,9,namecheap,,,13/08/2026 12:00
 755280c0-8e01-4ea2-bfdc-3f337944be6b,lusaka.casino,available,13.99,236.99,medium,low,6,name.com,,,24/09/2026 12:35
@@ -412,10 +442,12 @@ e2d738b2-c8e5-4c0d-a291-b50dd0c2d8df,leslie.casino,available,14.99,159.99,medium
 088276cf-056b-467b-9bf2-872564916593,unpaired.casino,available,6.98,191.98,medium,low,8,namecheap,,,12/09/2026 15:30
 035801be-dda1-4f28-a6b1-f8c8e821cb89,shark.casino,resell,,,high,low,5,"Sav.com, LLC - 48",05/07/2026 15:15,05/07/2027 15:15,26/09/2026 08:58
 fd52a768-055c-46bf-a190-cda74312b678,buttonlike.casino,available,6.98,191.98,medium,low,10,namecheap,,,09/08/2026 03:39
+248e40d6-fa75-45c6-a36d-72470ed0c1af,castro.casino,available,14.99,159.99,medium,low,6,namesilo,,,28/09/2026 09:15
 ea9ff92f-2afc-4d4c-86be-1c5eb6b145bd,moreno.casino,available,14.99,159.99,medium,low,6,namesilo,,,27/09/2026 10:16
 a48e8dfa-637b-4ca5-b01d-3a9ee10be137,frigid.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/08/2026 15:46
 8a2cd1b0-8c79-49ac-8750-85dd8c0f23e1,sunstruck.casino,available,6.98,191.98,medium,low,9,namecheap,,,11/09/2026 02:01
 7005045f-388e-469c-b560-3335e52894d2,epidural.casino,available,6.98,191.98,high,low,8,namecheap,,,17/08/2026 10:52
+962a9997-fc63-40cc-bee8-83ffd54ee39a,chaplin.casino,available,6.41,129.58,high,low,7,spaceship,,,28/09/2026 18:39
 35c76efb-c515-4f39-98f4-cc1a102f4821,entangle.casino,available,6.98,191.98,medium,low,8,namecheap,,,24/08/2026 16:54
 d2d53d29-7b4d-409c-9c10-503281a5f4f3,tremulous.casino,available,6.98,191.98,medium,low,9,namecheap,,,09/09/2026 07:46
 2867cddc-fe0d-48da-88b9-f45cb1c3941a,nondrinker.casino,available,6.98,191.98,medium,low,10,namecheap,,,
@@ -430,7 +462,7 @@ c2771206-8bb8-4b6c-ab12-87f4cfacd1c7,afghani.casino,available,6.98,191.98,medium
 712bcd50-c24f-4ce1-987f-0b48d4178155,petite.casino,available,6.98,191.98,medium,low,6,namecheap,,,08/08/2026 14:24
 8b57404a-6ad0-48f5-82bf-8344234287e8,azote.casino,available,14.99,159.99,medium,low,5,namesilo,,,21/09/2026 11:27
 7420349e-a1db-4541-9a46-235d96c7ddc9,racetrack.casino,available,12.79,159.99,high,low,10,namesilo,,,
-3929a7f7-2a69-4b49-b7ea-c9d27d33fc91,baguette.casino,available,12.79,159.99,high,low,8,namesilo,,,
+3929a7f7-2a69-4b49-b7ea-c9d27d33fc91,baguette.casino,available,7.72,129.25,high,low,8,porkbun,,,29/09/2026 00:33
 b1e66950-255f-4508-8444-ae1fdef17e2b,rustless.casino,available,6.98,191.98,medium,low,8,namecheap,,,09/09/2026 20:19
 5f0096ce-8c85-4550-b65f-f626717dbbd2,parasitic.casino,available,6.98,191.98,medium,low,9,namecheap,,,17/08/2026 10:15
 6f0d5e40-3dd7-4155-bd6b-5d17500e59b9,europium.casino,available,6.98,191.98,medium,low,8,namecheap,,,20/09/2026 23:26
@@ -446,6 +478,7 @@ fad49767-5edb-4007-8514-5f6e673d56a1,hassium.casino,available,14.99,159.99,mediu
 81f3eb57-9241-41b8-a8f2-0518358ac142,potbound.casino,available,6.98,191.98,medium,low,8,namecheap,,,09/09/2026 00:44
 2062e855-0dd1-412b-9781-593c4d2f0c04,amblyopia.casino,available,6.98,191.98,medium,low,9,namecheap,,,18/09/2026 17:11
 d780faaa-a059-477f-82ef-c75110857042,pleb.casino,available,6.98,191.98,medium,low,4,namecheap,,,08/09/2026 21:04
+33f10f98-b2b6-4c28-8ef2-6fd2f1a65c00,spies.casino,available,15.99,,medium,low,5,unstoppable,,,28/09/2026 12:49
 e8010ac3-8278-4927-9160-c2a1988d64a7,cutaneous.casino,available,13.99,236.99,medium,low,9,name.com,,,13/08/2026 12:54
 9f6e2584-6bb6-42cc-8fe7-ed37bf668cfb,acrophobia.casino,available,14.99,159.99,medium,low,10,namesilo,,,17/09/2026 03:53
 56350aac-91aa-42bf-9f23-d8bac031a997,jetting.casino,available,6.98,191.98,high,low,7,namecheap,,,22/08/2026 13:09
@@ -454,10 +487,11 @@ ed5f4010-f7ea-4b26-9a50-05ed91a432ea,simplicity.casino,available,12.79,159.99,hi
 e3bd7255-3070-4a99-bd07-2ff23c937e14,spiteful.casino,available,6.98,191.98,medium,low,8,namecheap,,,14/08/2026 04:20
 679515c3-dedd-416f-8c3b-20b9356b0d88,stabilization.casino,available,14.99,159.99,medium,low,13,namesilo,,,17/09/2026 17:23
 abb63f80-a793-4f7b-a7f0-0ea41283995b,braw.casino,available,6.98,191.98,medium,low,4,namecheap,,,11/08/2026 02:45
-3632b55f-117c-4bc7-8ee6-24c6222c6220,naming.casino,available,6.98,191.98,high,low,6,namecheap,,,23/09/2026 15:51
-828bd38c-2d6f-479c-8093-c1dbb4e2d781,oatmeal.casino,available,12.79,159.99,high,low,7,namesilo,,,
+3632b55f-117c-4bc7-8ee6-24c6222c6220,naming.casino,available,6.41,129.58,high,low,6,spaceship,,,28/09/2026 08:38
+45c9d9d5-eba1-4434-b349-1f0c11f2edbb,appreciated.casino,available,6.41,129.58,high,low,11,spaceship,,,28/09/2026 07:22
+828bd38c-2d6f-479c-8093-c1dbb4e2d781,oatmeal.casino,available,15.99,159.99,high,low,7,unstoppable,,,29/09/2026 05:27
 58d6b527-6b62-409d-b754-e18f785398cd,bestiality.casino,available,6.98,191.98,medium,low,10,namecheap,,,23/09/2026 10:39
-30e851b5-89d7-4028-955c-a874c4023360,camping.casino,available,12.79,159.99,high,low,7,namesilo,,,
+30e851b5-89d7-4028-955c-a874c4023360,camping.casino,available,6.41,129.58,high,low,7,spaceship,,,29/09/2026 02:56
 f22c0411-15a8-48aa-8def-b95990ea82ac,suety.casino,available,6.98,191.98,low,low,5,namecheap,,,11/09/2026 01:08
 e15b3564-e12d-4681-8769-bb261202c6b3,neoclassic.casino,available,6.98,191.98,medium,low,10,namecheap,,,03/09/2026 15:21
 da33aa81-f573-443a-913d-a37dcd5853da,pellucid.casino,available,6.98,191.98,high,low,8,namecheap,,,13/08/2026 09:44
@@ -466,16 +500,20 @@ cd96191f-d8be-42af-aa87-b59b819b81d4,fated.casino,available,6.98,191.98,high,low
 a8786ebb-1d21-4809-9063-328ef9b3b113,aerator.casino,available,14.99,159.99,medium,low,7,namesilo,,,17/09/2026 12:47
 e3766b95-a676-4281-8d62-98a12b48fe55,spreading.casino,available,6.98,191.98,medium,low,9,namecheap,,,10/09/2026 16:45
 8b6f8fd7-465c-47c3-881e-360b3ddee5c5,stylised.casino,available,6.98,191.98,high,low,8,namecheap,,,12/08/2026 23:48
-8cf5dde6-6b92-4ddd-bd2a-1f5822a17f0f,item.casino,available,12.79,159.99,high,low,4,namesilo,,,
+835c3456-88a4-4514-9de2-6bf47b127c73,hillsborough.casino,available,6.41,129.58,medium,low,12,spaceship,,,28/09/2026 07:56
+8cf5dde6-6b92-4ddd-bd2a-1f5822a17f0f,item.casino,available,14.99,159.99,high,low,4,namesilo,,,28/09/2026 09:23
 f5dfaccb-8944-4dfa-90d2-1177860937a3,sizeable.casino,available,6.98,191.98,high,low,8,namecheap,,,20/08/2026 16:40
+58ce0fa2-f4f2-4211-be71-bf5af9c0dc1a,romans.casino,available,7.71,133.97,medium,low,6,dynadot,,,28/09/2026 19:05
 8af14267-9bdf-4c77-9592-2e92a721ece7,benthos.casino,available,14.99,159.99,medium,low,7,namesilo,,,23/09/2026 08:45
 f1345ee9-ab63-4595-aa45-dbd8fc0be1a1,apropos.casino,available,,,high,low,7,,,,
 c4311178-2bf0-4d40-8579-3f6b87736ea6,notes.casino,available,12.79,159.99,high,low,5,namesilo,,,
 4e1f8a1a-b5f0-4157-9fb7-59c8b7b2b155,rio.casino,premium,,,high,low,3,,,,28/09/2026 03:02
 eda75308-5ada-4f82-8288-c3510c10ae7b,mauldin.casino,available,6.98,191.98,medium,low,7,namecheap,,,23/09/2026 16:01
 13ecca85-045a-4d23-b68c-5a838e013cbc,boehm.casino,available,14.99,159.99,high,low,5,namesilo,,,23/09/2026 03:39
+6cac68cc-8769-4ad7-b26e-60c4afc6dcb8,langdon.casino,available,14.99,159.99,medium,low,7,namesilo,,,28/09/2026 16:35
 9de44ba8-7ce9-44dc-8ff7-2c1802749dd1,knapsack.casino,available,14.99,159.99,high,low,8,namesilo,,,21/09/2026 14:39
-bfe852e3-db24-4399-9afc-c56c06e50cb4,creek.casino,available,17.99,,high,low,5,name.com,,,
+bfe852e3-db24-4399-9afc-c56c06e50cb4,creek.casino,available,7.71,133.97,high,low,5,dynadot,,,29/09/2026 04:33
+6b2fe881-368d-47a6-853b-0fe8b0826a1f,battles.casino,available,6.98,191.98,low,low,7,namecheap,,,28/09/2026 08:54
 e6e8c12b-a10a-437f-8ffc-23aa1d8b97b4,dandyish.casino,available,13.99,236.99,medium,low,8,name.com,,,13/08/2026 17:03
 e9d12e3d-1fd6-495a-a68b-6c15b4932891,asymptote.casino,available,14.99,159.99,medium,low,9,namesilo,,,20/09/2026 18:41
 b17ac7e2-e7d0-4510-bd7f-98557ef8767b,holey.casino,available,6.98,191.98,medium,low,5,namecheap,,,21/08/2026 10:23
@@ -491,7 +529,8 @@ ce538934-2a20-496b-850c-7bd158456079,accomplice.casino,available,14.99,159.99,hi
 d03caf02-be92-4580-95e5-732e5034b70e,fis.casino,available,6.98,191.98,high,low,3,namecheap,,,28/09/2026 03:41
 cd7a939c-2120-4c12-8218-88d24ac8c582,leather.casino,available,12.79,159.99,high,low,7,namesilo,,,
 f3c0c627-249b-482f-b888-4b81e8a506d1,strain.casino,available,6.41,129.58,medium,low,6,spaceship,,,28/09/2026 01:20
-c93557c2-1426-4190-81f7-0cb8ef634bc1,stroke.casino,available,17.99,,high,low,6,name.com,,,
+c93557c2-1426-4190-81f7-0cb8ef634bc1,stroke.casino,available,6.41,129.58,high,low,6,spaceship,,,28/09/2026 21:42
+870b586b-7830-4a28-90c3-37ceec250e8c,erection.casino,available,6.41,129.58,high,low,8,spaceship,,,29/09/2026 00:49
 6c617409-7217-40ed-9b6d-ffb8fabeeb2d,resistible.casino,available,6.98,191.98,medium,low,10,namecheap,,,09/09/2026 15:20
 6b1e4540-72a0-44f3-8fec-a5dc8e836fa5,anagrams.casino,available,6.98,191.98,high,low,8,namecheap,,,19/09/2026 01:29
 701cc868-79cc-4332-9b3f-f2cbcd377bd2,bevy.casino,available,14.99,159.99,medium,low,4,namesilo,,,23/09/2026 12:05
@@ -508,9 +547,8 @@ c087c3e5-f3e2-4857-9c98-d0117299d58c,suddenly.casino,available,13.99,236.99,medi
 451de889-b448-4a6c-bb79-5a136e20c1b4,gassy.casino,available,6.98,191.98,medium,low,5,namecheap,,,12/08/2026 16:36
 3f868dd9-ea01-4a28-8904-da4ba81adcb4,reservedly.casino,available,6.98,191.98,medium,low,10,namecheap,,,15/09/2026 23:22
 8494c465-3f2e-4b03-a1bb-92a79bf7acfa,boycott.casino,available,14.99,159.99,medium,low,7,namesilo,,,24/09/2026 07:48
-cf5af8b3-f1ff-4461-8cc4-3dbd84b51fd8,toddler.casino,available,12.79,159.99,high,low,7,namesilo,,,
+cf5af8b3-f1ff-4461-8cc4-3dbd84b51fd8,toddler.casino,available,125.2,125.2,high,low,7,cloudflare,,,29/09/2026 00:53
 d09ff622-85d3-4e5d-9b25-3fbc9d58f84f,arrowroot.casino,available,14.99,159.99,medium,low,9,namesilo,,,17/09/2026 00:43
-8a8cdf53-0dce-462b-97d5-82e77775dd72,fig.casino,available,12.79,159.99,high,low,3,namesilo,,,
 1dd77f6b-989e-4af3-9039-8afafeeb270b,drifter.casino,available,6.98,191.98,medium,low,7,namecheap,,,13/09/2026 00:50
 b7d2de60-5390-4719-a55b-e520f7d89fbf,immerse.casino,available,6.98,191.98,high,low,7,namecheap,,,10/09/2026 19:49
 5076de57-2bea-4bbe-9389-634cbbee2c89,cracked.casino,available,14.99,159.99,high,low,7,namesilo,,,22/09/2026 01:30
@@ -523,10 +561,11 @@ ba4a14dc-c149-4e2b-ade9-7e689c0ded4d,jerk.casino,available,6.98,191.98,high,low,
 65243fa6-1707-43ec-badf-404e3adb6e3e,ammonia.casino,available,13.99,236.99,high,low,7,name.com,,,18/09/2026 22:08
 8dacc96e-acea-4897-9143-c8a215882336,tress.casino,available,14.99,159.99,medium,low,5,namesilo,,,24/09/2026 07:57
 f68d618f-b1a7-4020-9c3a-8a04af10297e,shack.casino,available,14.99,159.99,high,low,5,namesilo,,,24/09/2026 23:26
+55e5a649-61ca-4950-b3a7-bc6e7037f083,segment.casino,available,125.2,125.2,high,low,7,cloudflare,,,28/09/2026 20:24
 e3a79d8d-c64a-4cf2-b05b-a6a7fea110ee,knowing.casino,available,6.98,191.98,high,low,7,namecheap,,,25/09/2026 10:04
 09366547-aa09-4605-8640-84be48c4b6ca,unstaged.casino,available,6.98,191.98,medium,low,8,namecheap,,,12/09/2026 20:29
 db3bc425-2c71-483b-b8ae-9a8df07f40bd,aluminate.casino,available,6.98,191.98,medium,low,9,namecheap,,,18/09/2026 15:13
-fd40779a-7d25-4bf5-931d-6f21f916834b,barber.casino,available,12.79,159.99,high,low,6,namesilo,,,
+fd40779a-7d25-4bf5-931d-6f21f916834b,barber.casino,available,15.99,159.99,high,low,6,unstoppable,,,29/09/2026 01:08
 25b5c4a7-9076-4fcf-a99d-c683bda5243f,seattle.casino,available,,,high,low,7,,,,
 370b4834-3bb6-4d66-86e8-60909089093d,gilbert.casino,available,6.98,191.98,high,low,7,namecheap,,,18/08/2026 23:22
 604e81f2-1522-4538-8016-a35992e6b19d,breaks.casino,available,14.99,159.99,medium,low,6,namesilo,,,17/09/2026 22:04
@@ -558,15 +597,19 @@ d753b260-4ed2-4f99-9d2f-c53d09322470,rapacity.casino,available,14.99,159.99,medi
 3bee07d7-08a9-4951-bb1a-a65904db3fa0,mbd.casino,available,14.99,159.99,medium,low,3,namesilo,,,17/09/2026 06:35
 ced2c206-e588-454f-8f31-edeef11df8fb,third.casino,available,6.98,191.98,high,low,5,namecheap,,,
 60845213-859e-4c0e-ab54-99a2c01bd461,respects.casino,available,12.79,159.99,high,low,8,namesilo,,,
-62c906b9-9e2d-497c-884e-d1bbe42f595f,bolster.casino,available,12.79,159.99,high,low,7,namesilo,,,
+62c906b9-9e2d-497c-884e-d1bbe42f595f,bolster.casino,available,7.72,129.25,medium,low,7,porkbun,,,29/09/2026 03:17
 f139824f-f95e-4be8-a4b2-586c23a47a40,turbulent.casino,available,6.98,191.98,medium,low,9,namecheap,,,14/08/2026 12:26
+590f0404-1b97-40b0-a5a7-f18e7afc384d,caps.casino,available,7.72,129.25,high,low,4,porkbun,,,28/09/2026 22:50
 7e3c40b4-d9b8-4310-bd36-3515df74b763,bimetal.casino,available,6.98,191.98,high,low,7,namecheap,,,09/08/2026 22:52
 a7f677ae-58c3-456d-8721-f35500246c0d,springlike.casino,available,6.98,191.98,medium,low,10,namecheap,,,10/09/2026 16:53
 c53983f7-2cdf-4f67-a5c2-2383112aff02,torture.casino,available,6.98,191.98,high,low,7,namecheap,,,11/09/2026 18:03
+e820a9e4-49b6-45ad-a3e8-71f79887d043,solving.casino,available,7.71,133.97,high,low,7,dynadot,,,29/09/2026 02:13
 cc8140f8-3359-4c93-9c67-8e1659cea800,potbellied.casino,available,6.98,191.98,medium,low,10,namecheap,,,
 93c382f8-e08f-425f-8272-d761a237c9df,downhill.casino,available,6.98,191.98,medium,low,8,namecheap,,,13/08/2026 21:49
+f9c9b9e1-65d2-4957-a14f-e4118984ae66,decades.casino,available,6.41,129.58,low,low,7,spaceship,,,28/09/2026 13:15
 6c07f6a7-00e1-4aba-b60f-763f0da6df9c,subscript.casino,available,6.98,191.98,high,low,9,namecheap,,,11/09/2026 00:43
 6d6c0ee1-a29c-4b0e-9a5b-89cdfd56ae66,reddish.casino,available,14.99,159.99,high,low,7,namesilo,,,19/09/2026 03:49
+7e39d60c-5172-4763-b8d7-a894f8067ac7,dane.casino,available,6.98,191.98,high,low,4,namecheap,,,29/09/2026 00:37
 988a258a-02a5-4c97-9742-4ba1f7463f19,mockingly.casino,available,6.98,191.98,medium,low,9,namecheap,,,14/09/2026 12:02
 9dfe8d54-f1ea-4b1a-af44-d2731896c7de,cyan.casino,available,14.99,159.99,high,low,4,namesilo,,,22/09/2026 22:59
 0b7dce01-a803-45e8-affe-57bc8a4bc726,bourbon.casino,available,14.99,159.99,high,low,7,namesilo,,,24/09/2026 07:37
@@ -574,11 +617,13 @@ cc8140f8-3359-4c93-9c67-8e1659cea800,potbellied.casino,available,6.98,191.98,med
 c0085f79-14ff-4d40-b17a-bb96983bd4ec,since.casino,available,12.79,159.99,high,low,5,namesilo,,,
 0fdf676a-58f8-4b3a-98fe-fa379381d9f5,polyploid.casino,available,6.98,191.98,medium,low,9,namecheap,,,08/09/2026 23:29
 122b2fde-becd-40cc-9e68-a50201d5d84c,cancer.casino,available,12.79,159.99,high,low,6,namesilo,,,
-bfed6d15-8499-4491-87b3-18b88d671e62,photography.casino,available,17.99,,high,low,11,name.com,,,
+76ff9288-225f-46d6-a768-4e1c31b26b45,stew.casino,available,6.41,129.58,medium,low,4,spaceship,,,28/09/2026 09:50
+bfed6d15-8499-4491-87b3-18b88d671e62,photography.casino,available,125.2,125.2,high,low,11,cloudflare,,,28/09/2026 07:43
 a43072f7-f506-4b15-9998-7b056ac4fe6d,granddaughter.casino,available,12.79,159.99,high,low,13,namesilo,,,
 87f85e2f-7c8f-412d-8336-0d92e5843871,jokingly.casino,available,6.98,191.98,medium,low,8,namecheap,,,14/09/2026 17:23
 76f1b361-cb46-4d32-abc6-cb95c8a82083,changeling.casino,available,6.98,191.98,medium,low,10,namecheap,,,21/08/2026 20:30
 f801cd6a-3c5b-417e-8990-8b86bcf77a3b,wrote.casino,available,12.79,159.99,medium,low,5,namesilo,,,
+ea9a6685-ea30-4ac7-922f-c1435a42efa2,unbelievable.casino,available,6.98,191.98,high,low,12,namecheap,,,28/09/2026 07:08
 bd255a86-a98e-4f2b-8e49-29908091c3a3,courtroom.casino,available,12.79,159.99,high,low,9,namesilo,,,
 cd3e48a8-884a-42fa-a78f-2ea68f59fc23,intended.casino,available,14.99,159.99,high,low,8,namesilo,,,25/09/2026 09:53
 514e64d5-22e5-486d-8117-ca9fa994e16b,stormed.casino,available,6.98,191.98,medium,low,7,namecheap,,,20/09/2026 15:47
@@ -594,7 +639,7 @@ c1e33664-5fa9-4829-befd-14058d599933,turnout.casino,available,12.79,159.99,high,
 071dd168-feaa-4208-8501-8aa6d69dcda9,vigorous.casino,available,6.98,191.98,high,low,8,namecheap,,,13/09/2026 05:44
 44858836-9c0b-43ed-aab1-372b401b4ec7,erect.casino,available,6.98,191.98,high,low,5,namecheap,,,17/08/2026 12:04
 4ead5e59-b7f4-4ee7-a21c-c2638a378ecd,radiantly.casino,available,6.98,191.98,medium,low,9,namecheap,,,15/09/2026 22:18
-7dc46ee6-0d70-4057-911f-b9cd9ac94902,acne.casino,available,12.79,159.99,high,low,4,namesilo,,,
+7dc46ee6-0d70-4057-911f-b9cd9ac94902,acne.casino,available,6.41,129.58,medium,low,4,spaceship,,,28/09/2026 17:51
 c4ec0e0b-cffa-420c-8fcd-b3019906785a,addictive.casino,available,14.99,159.99,high,low,9,namesilo,,,21/09/2026 17:08
 cbe21603-d66a-4cc4-b060-a495ca30581d,flaky.casino,available,6.98,191.98,high,low,5,namecheap,,,10/08/2026 10:06
 9264aa97-d9c1-4c1b-8411-237ca3ad49ce,bitumen.casino,available,14.99,159.99,medium,low,7,namesilo,,,23/09/2026 23:13
@@ -602,6 +647,7 @@ cbe21603-d66a-4cc4-b060-a495ca30581d,flaky.casino,available,6.98,191.98,high,low
 d9baf7fb-919f-431c-ac13-686096249a3f,buccal.casino,available,6.98,191.98,medium,low,6,namecheap,,,11/08/2026 07:27
 f5c1a081-d5c0-422c-a00d-befbe1bd31e4,alcahest.casino,available,14.99,159.99,medium,low,8,namesilo,,,18/09/2026 03:43
 69b84642-a137-42cb-9e05-1ec9b49db6dc,pressure.casino,available,6.98,191.98,high,low,8,namecheap,,,24/09/2026 23:12
+03b0e2f5-81ee-4aa2-a43a-a0469c27bc1b,percival.casino,available,14.99,159.99,high,low,8,namesilo,,,28/09/2026 16:27
 dc74fc2c-b8cd-4cea-8f0b-03c6476e57a6,biotype.casino,available,6.98,191.98,medium,low,7,namecheap,,,23/09/2026 19:14
 cf6fe207-93c1-4d47-9761-dbcefc5c6383,unfortunately.casino,available,12.79,159.99,medium,low,13,namesilo,,,
 635a5da2-dca3-4d15-a6e9-9b1741460c62,whirr.casino,available,6.98,191.98,high,low,5,namecheap,,,13/09/2026 11:31
@@ -612,17 +658,19 @@ b58742c8-397a-4018-bda7-887074a25d6e,omar.casino,available,6.98,191.98,high,low,
 30f8aeda-1bc3-47bd-b231-631560479837,cracking.casino,available,6.41,129.58,high,low,8,spaceship,,,28/09/2026 05:52
 f1cf9f93-11d0-4c0d-8b48-4e0bb8051e1b,lordly.casino,available,6.98,191.98,medium,low,6,namecheap,,,07/08/2026 17:05
 0d78c448-d90b-44ea-8e5e-c5692ea0b97d,hooter.casino,available,14.99,159.99,medium,low,6,namesilo,,,21/09/2026 07:22
-38dc2794-ca79-4967-8d39-914e41be0aaa,carriage.casino,available,12.79,159.99,high,low,8,namesilo,,,
+38dc2794-ca79-4967-8d39-914e41be0aaa,carriage.casino,available,125.2,125.2,high,low,8,cloudflare,,,29/09/2026 00:08
 eb06d20c-86ef-451a-b322-c715b71f5e53,neighbourhood.casino,available,14.99,159.99,high,low,13,namesilo,,,17/09/2026 15:31
 62b4f806-fb77-4b0a-95dd-8211249d1d64,pergola.casino,available,14.99,159.99,medium,low,7,namesilo,,,20/09/2026 01:00
-816aecf3-b307-434f-914a-95969a311eff,fiercely.casino,available,12.79,159.99,medium,low,8,namesilo,,,
+816aecf3-b307-434f-914a-95969a311eff,fiercely.casino,available,14.99,159.99,medium,low,8,namesilo,,,28/09/2026 14:52
 11da0b9c-e78f-4b3f-8529-d2b82959d6ca,trojan.casino,available,6.98,191.98,high,low,6,namecheap,,,11/09/2026 20:17
+f645cf94-e438-471b-a58b-435f9bf1583c,superfamily.casino,available,6.98,191.98,medium,low,11,namecheap,,,29/09/2026 02:59
 6be2e5d2-8164-43b9-9208-a1094a302712,bivalvia.casino,available,14.99,159.99,medium,low,8,namesilo,,,23/09/2026 23:16
 32712b9e-94c6-4eed-960b-b6d39ca914de,seminar.casino,available,6.41,129.58,high,low,7,spaceship,,,28/09/2026 06:44
 7e04c0d3-92be-4b1b-9ff1-987b9a571010,stylistic.casino,available,6.98,191.98,high,low,9,namecheap,,,10/09/2026 23:19
 fb18d385-ec1e-4a0f-8a63-d21a0c8479f9,slaves.casino,available,14.99,159.99,low,low,6,namesilo,,,27/09/2026 23:05
 df166e00-07e2-4242-8e55-64dc751d3e67,afield.casino,available,6.98,191.98,medium,low,6,namecheap,,,13/09/2026 17:59
 cb00ea19-1f30-4660-8b08-9050097ce6ac,slimy.casino,available,6.98,191.98,medium,low,5,namecheap,,,14/08/2026 04:03
+bdb4df6e-155a-4fa3-afb7-75e3e1b7f7ab,mazda.casino,available,7.72,129.25,high,low,5,porkbun,,,28/09/2026 16:04
 ccfe665b-18d3-4784-b78c-3fc19890c00c,decayable.casino,available,6.98,191.98,low,low,9,namecheap,,,13/08/2026 20:54
 7cbaa501-a441-41d8-8be6-f3c86b42035b,aimlessly.casino,available,6.98,191.98,medium,low,9,namecheap,,,13/09/2026 18:28
 19065a42-1012-4301-a6cb-14e4894a9ad1,audi.casino,available,,,high,high,4,,,,
@@ -634,8 +682,10 @@ c7da31ff-d0e7-4f5c-8141-ecb6c27837e8,agdistis.casino,available,14.99,159.99,medi
 7fe699c3-ed35-4691-b0ed-09399d3ac43d,sixpenny.casino,available,6.98,191.98,medium,low,8,namecheap,,,10/09/2026 09:06
 ac31a8f7-61d6-4dcf-9a76-ca18cf710978,aubergine.casino,available,13.99,236.99,high,low,9,name.com,,,21/09/2026 02:33
 a50f54fe-970a-44ea-a0d5-118a608d3842,phonemic.casino,available,6.98,191.98,medium,low,8,namecheap,,,08/09/2026 19:02
+db1636f0-32ed-4f1a-afbc-2f8c09001629,suppress.casino,available,14.99,159.99,medium,low,8,namesilo,,,29/09/2026 00:32
 df3c47ce-69a4-4c16-b8d1-372f34c4f8e6,twofold.casino,available,6.98,191.98,high,low,7,namecheap,,,14/08/2026 16:39
 578dd81b-5e70-4ea1-92f6-b5d7a34a8691,renascent.casino,available,6.98,191.98,high,low,9,namecheap,,,09/09/2026 13:55
+e29f11a2-5b82-4cf6-98d8-1bbafedc7c4d,punching.casino,available,15.99,,medium,low,8,unstoppable,,,29/09/2026 00:06
 e87eae34-b6f6-40c0-bcf2-83c897f0d1b4,noisily.casino,available,6.98,191.98,medium,low,7,namecheap,,,15/09/2026 16:46
 68f37302-927a-4efa-9ed0-2b6a219a5921,village.casino,resell,,,high,low,7,"Spaceship, Inc.",23/03/2026 23:18,23/03/2027 23:18,26/09/2026 09:59
 d791f660-2ace-4617-948f-cc989147b2bc,bought.casino,available,12.79,159.99,high,low,6,namesilo,,,
@@ -645,6 +695,7 @@ f27607e4-de1f-40c9-bc21-8ebe718f4507,ants.casino,available,125.2,125.2,medium,lo
 5845dd16-2579-4dc1-9a1b-5844992346ac,intentions.casino,available,6.41,129.58,medium,low,10,spaceship,,,27/09/2026 22:32
 7293b2a5-9c30-4421-b5e8-73e18ceea402,medici.casino,available,14.99,159.99,high,low,6,namesilo,,,25/09/2026 23:33
 56982a41-b297-4913-a5d7-2acd6ade827f,abnaki.casino,available,6.98,191.98,medium,low,6,namecheap,,,
+39019b23-d950-415d-a4b2-d39aef88d4e5,sensors.casino,available,125.2,125.2,medium,low,7,cloudflare,,,28/09/2026 09:09
 df8f8d67-daf0-4089-9e90-7e77dffe3d49,custody.casino,available,14.99,159.99,high,low,7,namesilo,,,24/09/2026 20:41
 d8400e43-2bfd-488a-8d94-5a45247385b7,owed.casino,available,125.2,125.2,medium,low,4,cloudflare,,,27/09/2026 17:35
 d0ab6a1a-f175-4751-901f-1a0f035a76be,figured.casino,available,6.98,191.98,high,low,7,namecheap,,,18/08/2026 04:00
@@ -652,7 +703,7 @@ d0ab6a1a-f175-4751-901f-1a0f035a76be,figured.casino,available,6.98,191.98,high,l
 5a28fd2f-4ed4-4110-a7a8-d7c694145691,evoked.casino,available,6.98,191.98,medium,low,6,namecheap,,,16/08/2026 04:33
 9bbe4619-fdf8-4086-a3a7-bd6a9a1cd411,coeliac.casino,available,6.98,191.98,medium,low,7,namecheap,,,12/08/2026 15:21
 6c168c86-02a6-42a9-b514-afbc031ea393,select.casino,resell,,,high,medium,6,"Sav.com, LLC - 16",15/04/2026 15:15,15/04/2027 15:15,26/09/2026 08:54
-ccb51865-fbb8-4874-8c72-f07b76be2a5b,accusation.casino,available,12.79,159.99,high,low,10,namesilo,,,
+ccb51865-fbb8-4874-8c72-f07b76be2a5b,accusation.casino,available,125.2,125.2,medium,low,10,cloudflare,,,28/09/2026 17:30
 7e73ab92-8bce-403f-8c11-2eb35fb0bf90,deranged.casino,available,6.98,191.98,medium,low,8,namecheap,,,13/08/2026 05:32
 921aba37-8be1-46c2-bb84-6280fab41c20,axenic.casino,available,6.98,191.98,medium,low,6,namecheap,,,08/08/2026 01:51
 0825cb9b-33f0-41bb-a663-ad981263099e,argyle.casino,available,14.99,159.99,high,low,6,namesilo,,,20/09/2026 04:57
@@ -663,6 +714,7 @@ ccb51865-fbb8-4874-8c72-f07b76be2a5b,accusation.casino,available,12.79,159.99,hi
 7d726b17-d89a-4240-b51a-db8c0678a673,scienter.casino,available,6.98,191.98,medium,low,8,namecheap,,,16/09/2026 00:44
 24dde141-6e74-4870-a475-fbe97dbb8448,handed.casino,available,6.98,191.98,high,low,6,namecheap,,,20/08/2026 23:25
 ad8c232c-2c80-4585-92ba-ef8982f95672,quinn.casino,available,6.98,191.98,high,low,5,namecheap,,,25/09/2026 21:10
+6eeee466-183e-48c0-baf0-fbc375285b94,lsu.casino,available,7.71,133.97,high,low,3,dynadot,,,28/09/2026 21:28
 67baef99-6262-48db-b34d-b2b0a42291ce,region.casino,available,12.79,159.99,high,low,6,namesilo,,,
 cb941b4e-d46f-4642-9323-7f3b793b34de,alteration.casino,available,14.99,159.99,high,low,10,namesilo,,,18/09/2026 14:42
 a2785871-22d2-43f9-a61e-a92647ef5b80,olympian.casino,available,6.98,191.98,high,low,8,namecheap,,,17/08/2026 16:01
@@ -673,7 +725,7 @@ d7ad1c97-9635-4003-a30a-d06b6a0e342d,pellagra.casino,available,14.99,159.99,medi
 a3138ed1-45bd-48e1-a8a9-1a756f382381,benjamin.casino,available,6.98,191.98,high,low,8,namecheap,,,20/09/2026 12:34
 29279e15-1f3d-4567-9460-689d7fbcc5b1,unq.casino,available,14.99,159.99,medium,low,3,namesilo,,,20/09/2026 22:06
 4b0e0fff-dc76-4e29-898f-4f372777ac7d,stormproof.casino,available,6.98,191.98,medium,low,10,namecheap,,,10/09/2026 21:24
-ceb462e2-ade3-4c77-92df-7bc3283146fb,worthwhile.casino,available,12.79,159.99,high,low,10,namesilo,,,
+ceb462e2-ade3-4c77-92df-7bc3283146fb,worthwhile.casino,available,14.99,159.99,high,low,10,namesilo,,,28/09/2026 11:04
 0c9e0eb7-1466-442d-b1be-c920e238caad,city.casino,resell,,,high,medium,4,Automattic Inc.,21/08/2021 16:49,21/08/2027 16:49,26/09/2026 04:57
 68bed088-6285-46cd-af4d-7ce6c4ab3419,uruguayan.casino,available,6.98,191.98,high,low,9,namecheap,,,12/09/2026 23:55
 6d1eb353-abf5-42f6-ab68-fe4823f04e7e,cadillac.casino,available,12.79,159.99,high,low,8,namesilo,,,
@@ -682,8 +734,11 @@ ceb462e2-ade3-4c77-92df-7bc3283146fb,worthwhile.casino,available,12.79,159.99,hi
 e60a6ad3-1f0b-4069-9470-107f5ecb7c38,gardiner.casino,available,6.98,191.98,medium,low,8,namecheap,,,25/09/2026 06:17
 b385edc2-bb4d-44a7-acd3-385eb9695fa4,oblique.casino,available,6.98,191.98,high,low,7,namecheap,,,14/08/2026 05:11
 a79791e0-d018-4781-9e0f-03c58423cfd9,behave.casino,available,12.79,159.99,high,low,6,namesilo,,,
+d7127869-621f-4f3d-b7e9-b5ccc1f8c347,beasts.casino,available,14.99,159.99,low,low,6,namesilo,,,28/09/2026 23:05
 6baa22b9-4dac-4587-964c-fc8ec91de78f,hayseed.casino,available,6.98,191.98,medium,low,7,namecheap,,,21/08/2026 08:05
-2fa4cca5-0aeb-459a-aea7-765a3758b4dd,treating.casino,available,6.98,191.98,high,low,8,namecheap,,,23/09/2026 18:53
+2ca61c78-0887-4bd2-b480-9f5cff5a5ea5,aziz.casino,available,6.98,191.98,high,low,4,namecheap,,,28/09/2026 07:37
+2fa4cca5-0aeb-459a-aea7-765a3758b4dd,treating.casino,available,14.99,159.99,medium,low,8,namesilo,,,28/09/2026 08:47
+7f4f7b2c-d00a-44e7-a1a0-7ce98f689e60,decrease.casino,available,15.99,,medium,low,8,unstoppable,,,29/09/2026 00:39
 d844fd55-0fbe-4c9e-828c-847c96ae47f7,thirty.casino,available,6.98,191.98,high,low,6,namecheap,,,
 af6d6d11-4e38-486b-a7ec-765ef5410c1c,mazy.casino,available,6.98,191.98,medium,low,4,namecheap,,,22/08/2026 17:42
 54610d50-687a-4abe-bcb1-08c550c14236,astrantia.casino,available,14.99,159.99,medium,low,9,namesilo,,,20/09/2026 17:32
@@ -692,48 +747,57 @@ af6d6d11-4e38-486b-a7ec-765ef5410c1c,mazy.casino,available,6.98,191.98,medium,lo
 70372dd8-4bf6-424e-a229-5bd7dcab8823,tibetan.casino,available,6.98,191.98,high,low,7,namecheap,,,11/09/2026 15:23
 828a03c4-2703-4f8d-a091-20381ffecf1e,ooze.casino,available,6.98,191.98,high,low,4,namecheap,,,04/09/2026 15:40
 489b9c78-5a0f-4dd7-b67f-fd549388c562,constants.casino,available,14.99,159.99,medium,low,9,namesilo,,,21/09/2026 01:13
+441695ce-b133-4b76-8d5b-35f9c2409cc0,indefinitely.casino,available,6.41,129.58,medium,low,12,spaceship,,,28/09/2026 22:50
 0335a4dd-2432-46ec-921b-96098141974e,colombian.casino,available,6.98,191.98,high,low,9,namecheap,,,12/08/2026 17:18
 9f30eb83-fa7b-4d03-bd9a-ddb22c3d0986,journey.casino,available,12.79,159.99,high,low,7,namesilo,,,
+7646746f-195b-49af-82f6-5be19c84735f,sights.casino,available,7.71,133.97,high,low,6,dynadot,,,28/09/2026 10:56
 26c4b586-a9ab-4e80-ad88-1a80f1e5b73f,feed.casino,available,13.99,236.99,high,low,4,name.com,,,25/09/2026 05:56
 dee959a7-5e8a-4a70-9377-ab93bc51d484,betimes.casino,available,6.98,191.98,medium,low,7,namecheap,,,13/09/2026 23:59
+9db6a408-e067-4bc9-812d-4115aa087c80,villa.casino,resell,,,medium,low,5,,,,29/09/2026 00:41
 3b9658ab-8df6-4f32-8846-0f233e5fddc1,spirit.casino,resell,,,high,low,6,Dynadot Inc,06/05/2025 15:15,06/05/2028 15:15,26/09/2026 09:13
-23ec1ac9-b4e9-437d-a590-c82311fd50a9,boost.casino,resell,,,high,low,5,"NameCheap, Inc.",19/07/2026 15:16,19/07/2027 15:16,26/09/2026 04:33
+23ec1ac9-b4e9-437d-a590-c82311fd50a9,boost.casino,resell,,,high,medium,5,"NameCheap, Inc.",19/07/2026 15:16,19/07/2027 15:16,29/09/2026 03:38
 8686090c-f036-4153-a467-7415b517e5e1,stoically.casino,available,14.99,159.99,medium,low,9,namesilo,,,16/09/2026 07:14
 ea2d176c-145e-400e-967f-67f04a0d1eed,coffeemakers.casino,available,14.99,159.99,medium,low,12,namesilo,,,21/09/2026 01:27
 3522c0b9-faf2-4e4a-a84a-c32eb339a27f,arid.casino,available,6.98,191.98,medium,low,4,namecheap,,,06/08/2026 18:58
 01749f98-d9b9-4077-a578-990088da7308,allegiance.casino,available,6.98,191.98,high,low,10,namecheap,,,18/09/2026 10:32
 d70fef5f-834c-4ffe-ab46-5febff608e1a,platitude.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/08/2026 19:12
+65e3415a-84c9-42f0-904a-01df7fef5918,consciousness.casino,available,14.99,159.99,medium,low,13,namesilo,,,28/09/2026 08:13
 6e803dc9-44ac-4142-8aa3-9728e6226866,dourly.casino,available,6.98,191.98,low,low,6,namecheap,,,14/09/2026 13:56
+50433fc3-8117-4dd1-9daa-3a1c3c579c7f,felony.casino,available,125.2,125.2,medium,low,6,cloudflare,,,28/09/2026 09:45
 04483bbc-01c1-4543-950b-e1b9c34a8050,fairish.casino,available,6.98,191.98,medium,low,7,namecheap,,,17/08/2026 21:12
 eeb777e3-ed1b-48c4-8b5e-3c811c43cdd9,implicitly.casino,available,6.98,191.98,medium,low,10,namecheap,,,15/09/2026 02:29
+356ef2cd-f5ff-481b-ace9-59098a2199e1,prospect.casino,available,14.99,159.99,high,low,8,namesilo,,,28/09/2026 14:06
 118869ea-952f-401b-a5e2-d6a7c75aacbc,exhausted.casino,available,6.98,191.98,medium,low,9,namecheap,,,14/08/2026 14:43
 d6bb5072-d667-4bce-875f-1017024a81f7,nix.casino,available,6.98,191.98,high,low,3,namecheap,,,03/09/2026 22:30
 625a8815-a41b-4cfd-9858-10e83cb3330d,tunnel.casino,available,6.98,191.98,high,low,6,namecheap,,,25/09/2026 03:48
 289b3090-73c1-4459-9242-676bf753c0d7,dormie.casino,available,6.98,191.98,medium,low,6,namecheap,,,14/08/2026 16:21
-709e26c6-b4a3-40f8-8cd7-8d5554b1c899,screen.casino,available,14.99,159.99,high,low,6,namesilo,,,23/09/2026 16:32
+709e26c6-b4a3-40f8-8cd7-8d5554b1c899,screen.casino,available,14.99,159.99,high,low,6,namesilo,,,28/09/2026 08:44
 b568b07a-f81d-481c-8039-eb2f2bc3e9a0,sophomore.casino,available,6.98,191.98,high,low,9,namecheap,,,10/09/2026 14:17
 9b45aa44-0f87-48db-a3c1-2204b6abf399,desirous.casino,available,6.98,191.98,medium,low,8,namecheap,,,14/08/2026 03:49
+8a889608-fbfc-4fe7-8aaa-3ed5d44d664e,sabah.casino,available,7.72,129.25,medium,low,5,porkbun,,,28/09/2026 20:01
 ca10030b-f464-4683-b85c-3ee6e5444ee2,whiny.casino,available,6.98,191.98,medium,low,5,namecheap,,,09/09/2026 08:37
 36e6f462-5601-4d07-8840-cfdf682d2141,aconcagua.casino,available,14.99,159.99,medium,low,9,namesilo,,,17/09/2026 02:04
 d2be7e7b-9e04-46fd-b715-fe6464af3250,coexistent.casino,available,6.98,191.98,medium,low,10,namecheap,,,12/08/2026 15:30
 3346b40e-9788-4cae-9614-a11ebb323621,eclectic.casino,available,6.98,191.98,high,low,8,namecheap,,,14/08/2026 23:43
 fe33a0ed-7555-4e39-b3d4-d41f7ea1fee4,born.casino,available,14.99,159.99,high,low,4,namesilo,,,23/09/2026 00:37
+91e9cc1a-f25f-4e22-83f1-0c096e281348,stance.casino,available,15.99,,high,low,6,unstoppable,,,28/09/2026 20:34
 21548dd4-262a-453b-b579-1a8b8e23d096,urbanized.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/09/2026 23:29
 d5b1f221-5e5d-4164-82a8-769ad3707de3,judicial.casino,available,6.98,191.98,high,low,8,namecheap,,,22/08/2026 14:14
+7c004ba2-9626-45e5-8c75-f31a26d0a8d7,knob.casino,available,14.99,159.99,high,low,4,namesilo,,,28/09/2026 19:39
 dd712519-88a2-48d8-b51f-45eafda441d2,peasant.casino,available,6.98,191.98,high,low,7,namecheap,,,11/08/2026 07:35
 a1a07618-5473-4447-881b-4d124b9523ed,balk.casino,available,6.98,191.98,medium,low,4,namecheap,,,14/08/2026 04:55
 88506f2f-f321-4f6c-b808-1075aa5924af,gathering.casino,available,14.99,159.99,high,low,9,namesilo,,,20/09/2026 16:00
 f6689d1d-e802-4076-a83a-a7a722579c0a,sinai.casino,available,14.99,159.99,high,low,5,namesilo,,,25/09/2026 09:30
 e545a107-282e-4152-a036-a7f206959b77,selfish.casino,available,6.41,129.58,medium,low,7,spaceship,,,27/09/2026 19:59
 d8763a46-c0a4-4a74-888a-a3935e7e8350,atom.casino,resell,,,high,medium,4,Dynadot Inc,07/01/2024 11:10,07/01/2027 11:10,26/09/2026 04:06
-2e21dd20-4ddf-4d58-9ce5-6f7ef038893f,creatively.casino,available,17.99,,high,low,10,name.com,,,
+2e21dd20-4ddf-4d58-9ce5-6f7ef038893f,creatively.casino,available,6.41,129.58,medium,low,10,spaceship,,,28/09/2026 14:25
 e01ee275-c612-4cb2-9ed3-5428cfc3da78,mla.casino,available,14.99,159.99,high,low,3,namesilo,,,28/09/2026 03:26
 f383e771-49c1-49f1-bd08-fc822bb9a786,flipping.casino,available,6.98,191.98,high,low,8,namecheap,,,17/09/2026 18:25
 48f3bb4e-54dc-4635-9677-b2991ef8a773,jingly.casino,available,6.98,191.98,medium,low,6,namecheap,,,22/08/2026 13:29
 fe18055e-cab3-47cd-95b4-a399418ec51a,andean.casino,available,6.98,191.98,high,low,6,namecheap,,,
 990bb9a4-9787-4183-9adb-a9baafc2ee74,bassett.casino,available,14.99,159.99,high,low,7,namesilo,,,27/09/2026 07:09
-ab2f410c-4d19-4fee-bb64-36f1082a6380,yearbook.casino,available,12.79,159.99,high,low,8,namesilo,,,
-a9fb2bf9-1189-453d-ba83-7587472420bf,happily.casino,available,12.79,159.99,high,low,7,namesilo,,,
+ab2f410c-4d19-4fee-bb64-36f1082a6380,yearbook.casino,available,6.41,129.58,high,low,8,spaceship,,,28/09/2026 11:22
+a9fb2bf9-1189-453d-ba83-7587472420bf,happily.casino,available,14.99,159.99,high,low,7,namesilo,,,28/09/2026 13:29
 e6f4e1cc-cece-493d-b2de-7474f4cdeb3b,entry.casino,available,6.98,191.98,high,low,5,namecheap,,,08/09/2026 09:43
 08ddf681-20dd-467e-bc5c-64adf8474477,stingless.casino,available,6.98,191.98,medium,low,9,namecheap,,,10/09/2026 20:48
 0ead27bb-d70e-4593-b979-61a4bffad183,hempen.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/08/2026 03:20
@@ -748,6 +812,7 @@ a99dcb0a-124b-4240-b239-67623b78cbce,audrey.casino,available,14.99,159.99,high,l
 060fc892-3570-47a7-a251-67f298a10abd,cared.casino,available,6.98,191.98,medium,low,5,namecheap,,,25/09/2026 19:49
 cb0bd195-28f0-4a93-bafd-ff73391f7545,enchained.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/08/2026 01:24
 a068d7cf-11cf-47ad-9563-11478431a3e6,ambrose.casino,available,14.99,159.99,high,low,7,namesilo,,,18/09/2026 17:22
+c093c9d8-71c7-462b-8b3a-835944bb3137,fled.casino,available,14.99,159.99,low,low,4,namesilo,,,28/09/2026 12:32
 c2a5ebea-ff05-4381-b5ff-e20d8f6ebbeb,saint.casino,available,6.98,191.98,high,low,5,namecheap,,,25/09/2026 23:06
 a1ac933d-5d74-49a7-adde-da5c5180283e,worded.casino,available,14.99,159.99,medium,low,6,namesilo,,,20/09/2026 15:04
 5e0c04de-bf03-4c09-bf63-3809c0523350,carmichael.casino,available,15.99,,high,low,10,unstoppable,,,28/09/2026 02:01
@@ -759,6 +824,7 @@ cde3528a-996c-40f9-941e-5787b639b171,durable.casino,available,14.99,159.99,high,
 15ef9dd7-0b2b-4332-b229-eecda5978157,alkyl.casino,available,14.99,159.99,medium,low,5,namesilo,,,18/09/2026 08:34
 566e2d49-d5bb-40bf-bfa5-b016aca295b8,blackout.casino,available,6.98,191.98,high,low,8,namecheap,,,18/09/2026 22:20
 85e9423f-0a10-441c-822b-8bbb26cf18b9,shoal.casino,available,6.98,191.98,high,low,5,namecheap,,,10/09/2026 05:46
+246ba703-154e-4228-947f-5278191b9666,hesitate.casino,available,6.41,129.58,high,low,8,spaceship,,,28/09/2026 20:09
 c6269eb9-a660-45c0-8232-988485b80c53,postmark.casino,available,6.98,191.98,high,low,8,namecheap,,,18/08/2026 14:12
 36a6916a-ab8a-449f-bca1-810e72013c2f,vagabond.casino,available,6.98,191.98,high,low,8,namecheap,,,14/08/2026 19:16
 b9fed523-84d2-4fe8-a9f5-5722ca4dc5cc,broaden.casino,available,12.79,159.99,high,low,7,namesilo,,,
@@ -773,14 +839,17 @@ c682c8f7-1268-4636-9191-bbff5f236a0b,enmity.casino,available,14.99,159.99,medium
 5fc3af0b-6675-471b-985f-597b087b3e32,lorraine.casino,available,14.99,159.99,high,low,8,namesilo,,,25/09/2026 09:09
 c9c87569-5ff2-4a6b-a2fc-02b85c89fad8,bilateral.casino,available,6.98,191.98,high,low,9,namecheap,,,09/08/2026 21:14
 3e5370bc-1205-4148-b522-9e374c471317,hutton.casino,available,14.99,159.99,high,low,6,namesilo,,,25/09/2026 07:41
+3c39bb96-5639-4d16-a91b-c73831a830d1,sketches.casino,available,6.41,129.58,medium,low,8,spaceship,,,28/09/2026 23:25
 8c15c097-b140-4d98-acbf-10940a4c1ab4,aviation.casino,available,14.99,159.99,high,low,8,namesilo,,,17/09/2026 22:43
 09085773-006b-4c61-9b39-60a1b8434bb8,pantry.casino,available,6.98,191.98,high,low,6,namecheap,,,11/08/2026 11:54
 6df97c99-52f9-4dd5-862b-c5a1ba828df1,stefan.casino,available,14.99,159.99,high,low,6,namesilo,,,25/09/2026 14:25
 ff0237df-0816-4fe2-ba78-6f64ab419b6b,kinder.casino,available,,,high,medium,6,,,,
 284c05bf-a342-42a2-8715-82d885297908,anhedonia.casino,available,6.98,191.98,medium,low,9,namecheap,,,19/09/2026 07:46
+075df736-a7a3-4b77-b6bf-ecafe2203e9a,gardener.casino,available,6.41,129.58,medium,low,8,spaceship,,,28/09/2026 09:51
 4ca7cc7f-ca0a-48eb-968e-9a468af79f82,goody.casino,available,13.99,236.99,high,low,5,name.com,,,13/08/2026 15:54
 748e9594-5496-42ad-81e6-aa6fb18d8419,glacial.casino,available,6.98,191.98,medium,low,7,namecheap,,,18/08/2026 16:28
 2aafc832-e73c-486a-a7d1-d6d67c96a6c3,strickland.casino,available,14.99,159.99,medium,low,10,namesilo,,,28/09/2026 06:47
+c2cd2203-d239-4eae-90ab-ba77df123fa7,crowds.casino,available,6.41,129.58,medium,low,6,spaceship,,,28/09/2026 17:41
 847f47c9-4c25-495f-b4bd-670ef18346a6,akee.casino,available,14.99,159.99,medium,low,4,namesilo,,,17/09/2026 01:56
 a52c5a67-9c6c-4106-b381-c1ec292fa42e,faddish.casino,available,6.98,191.98,medium,low,7,namecheap,,,17/08/2026 20:33
 4e5dd350-7c69-495d-b53a-fcbad049c543,hausen.casino,available,14.99,159.99,medium,low,6,namesilo,,,17/09/2026 01:50
@@ -790,7 +859,9 @@ a52c5a67-9c6c-4106-b381-c1ec292fa42e,faddish.casino,available,6.98,191.98,medium
 8d505dcd-a94e-4456-a9bb-0644a759220f,nichols.casino,available,14.99,159.99,high,low,7,namesilo,,,25/09/2026 17:20
 47ad0066-ba14-48ef-acd9-0205334da1df,babyish.casino,available,6.98,191.98,medium,low,7,namecheap,,,08/08/2026 03:53
 1dc23f02-4326-47d0-bcb8-d6183fe43dbf,framed.casino,available,6.98,191.98,high,low,6,namecheap,,,18/08/2026 14:04
+089942ac-ee6c-401b-98ae-4b63570aaef5,expelled.casino,available,6.41,129.58,low,low,8,spaceship,,,28/09/2026 12:50
 26d899fc-f568-4c56-88af-82ec5f9cdde1,libber.casino,available,6.98,191.98,medium,low,6,namecheap,,,18/08/2026 01:03
+c334d112-81df-4223-a26f-460553057b0d,rehab.casino,available,14.99,159.99,high,low,5,namesilo,,,28/09/2026 22:56
 d34aa279-db65-4c9b-92c8-b69dcf1d2b3d,warrant.casino,available,6.98,191.98,high,low,7,namecheap,,,08/09/2026 08:40
 dc18149b-5c3f-437f-b954-702af9e7cb38,tacky.casino,available,6.98,191.98,high,low,5,namecheap,,,18/08/2026 06:41
 77be23a9-eec8-4601-97f5-45867d613bf1,lingo.casino,available,6.98,191.98,medium,low,5,namecheap,,,13/09/2026 04:12
@@ -804,6 +875,7 @@ b3225699-063f-4364-999a-eca0f8fc2465,purchasing.casino,available,6.98,191.98,hig
 595db626-047f-4acd-b7f3-e04592e08d45,ammoniac.casino,available,6.98,191.98,medium,low,8,namecheap,,,
 13beb4aa-ea2c-49da-9fca-7f510f5b2335,department.casino,available,12.79,159.99,high,low,10,namesilo,,,
 a53f07eb-1763-441c-8707-5c372b5dbd3b,cobalt.casino,available,14.99,159.99,high,low,6,namesilo,,,20/09/2026 22:41
+07354161-9a36-4470-8276-fac133364f0c,boyce.casino,available,15.99,,medium,low,5,unstoppable,,,28/09/2026 11:42
 865608cf-f4c5-4274-872e-5eb0b37dcb27,throat.casino,available,14.99,159.99,high,low,6,namesilo,,,26/09/2026 00:01
 b5446e0a-88cb-47cc-8ea8-8dfd8c968de1,kastler.casino,available,14.99,159.99,medium,low,7,namesilo,,,18/09/2026 06:34
 2d7815ed-d33c-4f12-8c95-80fd16859e78,sanford.casino,available,14.99,159.99,high,low,7,namesilo,,,25/09/2026 16:16
@@ -811,7 +883,9 @@ b5446e0a-88cb-47cc-8ea8-8dfd8c968de1,kastler.casino,available,14.99,159.99,mediu
 d2752fd6-6009-4c40-8553-113958bb77ab,catkinate.casino,available,6.98,191.98,medium,low,9,namecheap,,,11/08/2026 22:09
 7a6097bc-3ae3-4aa2-a9a8-47ad9f3bae4a,auxetic.casino,available,6.98,191.98,medium,low,7,namecheap,,,07/08/2026 21:28
 5fe93b67-59ec-486e-849d-c6894d098cac,bema.casino,available,14.99,159.99,high,low,4,namesilo,,,23/09/2026 07:15
+188a086d-b1af-4f22-a44b-80c5a2bf3363,jeopardy.casino,available,6.41,129.58,high,low,8,spaceship,,,28/09/2026 14:01
 2409230b-8371-4aa8-80a6-d117b383c7ad,albert.casino,resell,,,high,low,6,Dynadot Inc,24/01/2026 17:00,24/01/2027 17:00,26/09/2026 01:28
+f0747435-8460-4840-8cea-025c9528fb48,bradbury.casino,available,6.98,191.98,high,low,8,namecheap,,,28/09/2026 13:35
 e1245315-32c0-4261-b89b-e380c36c470e,prussian.casino,available,6.98,191.98,high,low,8,namecheap,,,09/09/2026 04:50
 22f8d3cf-7c73-4805-88b8-103be469215d,baggy.casino,available,14.99,159.99,high,low,5,namesilo,,,22/09/2026 16:21
 acc29369-2cfe-4d32-9c66-2426692c79c2,angiogram.casino,available,6.98,191.98,medium,low,9,namecheap,,,19/09/2026 06:13
@@ -825,12 +899,11 @@ e2fefa16-05f6-46ed-b3e0-15345bb36605,thumbs.casino,available,14.99,159.99,medium
 7906c30b-3745-4fbf-af10-b74b59aa95bd,blackface.casino,available,6.98,191.98,medium,low,9,namecheap,,,24/09/2026 02:15
 57142902-3ef5-4745-9027-b5a80ac32684,chord.casino,available,6.98,191.98,high,low,5,namecheap,,,24/09/2026 14:47
 d5a03ad3-cb3e-4ffd-b2d3-780809afdcb7,litter.casino,available,14.99,159.99,high,low,6,namesilo,,,22/09/2026 23:14
-d7f6aaa5-f761-464d-a23f-8eb7aa5fe86d,analyst.casino,available,6.98,191.98,high,low,7,namecheap,,,24/09/2026 08:21
+d7f6aaa5-f761-464d-a23f-8eb7aa5fe86d,analyst.casino,available,6.41,129.58,high,low,7,spaceship,,,28/09/2026 07:53
 1ac31075-51c5-4a92-809c-bbeb4ecb89e1,unworldly.casino,available,6.98,191.98,medium,low,9,namecheap,,,12/09/2026 20:18
-0c281355-ff3b-4bfa-9b98-b4698a0ff6ca,loop.casino,available,,,high,high,4,,,,
 0694d6ac-6cbf-4958-9098-379b112972e7,luculent.casino,available,6.98,191.98,medium,low,8,namecheap,,,24/08/2026 10:52
-2ae4c623-77da-4364-959b-57cc385ce8a2,bacon.casino,available,12.79,159.99,high,low,5,namesilo,,,
-f9880412-1c53-46f3-abd2-defea86d2fcb,course.casino,available,14.99,159.99,high,low,6,namesilo,,,26/09/2026 03:35
+2ae4c623-77da-4364-959b-57cc385ce8a2,bacon.casino,available,15.99,159.99,high,low,5,unstoppable,,,28/09/2026 16:51
+f9880412-1c53-46f3-abd2-defea86d2fcb,course.casino,available,7.71,133.97,high,low,6,dynadot,,,28/09/2026 20:13
 ba7221d1-8267-4910-9ab1-187eb15392d0,bake.casino,available,12.79,159.99,high,low,4,namesilo,,,
 055b0769-aa51-458c-a8d1-2ffef971042e,remedial.casino,available,14.99,159.99,high,low,8,namesilo,,,22/09/2026 02:24
 7e945498-4f97-48ef-8506-16d513c15b0d,chirpy.casino,available,6.98,191.98,high,low,6,namecheap,,,12/08/2026 06:03
@@ -849,6 +922,7 @@ bf6d26da-3bda-4895-96f3-da8f67878350,isle.casino,available,12.79,159.99,high,low
 59a976d3-71a1-477a-9438-d4ccd1a5f917,prophetic.casino,available,6.98,191.98,high,low,9,namecheap,,,09/09/2026 03:36
 15224492-6010-4856-b5d8-00ac320a0269,smoldering.casino,available,6.98,191.98,medium,low,10,namecheap,,,10/09/2026 12:01
 0b3902e7-ea8a-49e8-99b8-95fcbf73b2df,garbanzo.casino,available,14.99,159.99,medium,low,8,namesilo,,,24/09/2026 14:31
+fb2c89b0-26ec-4bce-a007-a60414fbc253,poughkeepsie.casino,available,15.99,,medium,low,12,unstoppable,,,29/09/2026 04:37
 d8d9fe25-bd64-4079-a56a-f9a799be0373,jammed.casino,available,6.98,191.98,medium,low,6,namecheap,,,22/08/2026 12:07
 3e50f817-c948-4a4c-a3c2-b07f8182a8a9,archaic.casino,available,6.98,191.98,high,low,7,namecheap,,,
 96b90140-c1f4-4a8e-9920-2ded7d5594fe,dicks.casino,available,12.79,159.99,medium,low,5,namesilo,,,
@@ -857,10 +931,10 @@ b0f5d121-cbc6-4e81-858f-a36c6bc337db,unmarked.casino,available,6.98,191.98,mediu
 7f40e075-7974-4f66-8983-f4d0f287aa4f,lowest.casino,available,6.98,191.98,medium,low,6,namecheap,,,22/08/2026 20:22
 8a227b38-89d9-49bd-8cbd-a2cb862cbb44,synonymous.casino,available,6.98,191.98,high,low,10,namecheap,,,11/09/2026 06:31
 4151b4ac-bdc2-4dab-b8d2-c765aaa41453,jar.casino,available,12.79,159.99,high,low,3,namesilo,,,
+3a520626-24a3-4633-b3e8-8b68299ced34,consumers.casino,available,6.41,129.58,medium,low,9,spaceship,,,29/09/2026 02:36
 b09e20d9-9179-4d82-80ba-91936665ace4,audiogram.casino,available,14.99,159.99,medium,low,9,namesilo,,,21/09/2026 02:55
 73dffbf4-0275-4789-ae8b-f71ea3044379,whitaker.casino,available,6.41,129.58,high,low,8,spaceship,,,27/09/2026 20:44
 711c9bfe-fc9a-4657-80c4-b3def9fbf3ca,haven.casino,available,12.79,159.99,high,medium,5,namesilo,,,
-0045021b-b77f-442b-a4fc-c846fc6205e2,ally.casino,available,,,high,high,4,,,,
 69effa31-ada4-42cc-a7cd-16e5e79f919f,asymmetry.casino,available,6.98,191.98,medium,low,9,namecheap,,,20/09/2026 18:39
 994cf107-3d9b-4036-9730-ba4e70b7971c,apiary.casino,available,14.99,159.99,high,low,6,namesilo,,,19/09/2026 17:20
 0230dcc5-f140-4488-a3d4-8ee3e0b83678,vitalizing.casino,available,6.98,191.98,medium,low,10,namecheap,,,23/08/2026 01:35
@@ -868,6 +942,7 @@ fa9a35f9-c61e-4360-9a58-52f37d72376e,teased.casino,available,6.98,191.98,medium,
 5611740c-0712-4e84-b8ab-8d8b22f1a23d,receptive.casino,available,6.98,191.98,high,low,9,namecheap,,,09/09/2026 11:23
 08c65e6a-c9e1-4e94-91b0-0d8b1b090e2b,anaphase.casino,available,14.99,159.99,medium,low,8,namesilo,,,19/09/2026 02:09
 91375174-80be-4bd6-acc8-bb29cecf68e5,samantha.casino,available,14.99,159.99,high,low,8,namesilo,,,27/09/2026 07:25
+e0891348-615f-4a8d-a132-843b7aa71bac,suzanne.casino,available,125.2,125.2,medium,low,7,cloudflare,,,28/09/2026 11:57
 eaa8bd65-a558-4593-b26d-c7960ba67ad3,lamenting.casino,available,6.98,191.98,medium,low,9,namecheap,,,22/08/2026 19:02
 ff0b87d2-dbcb-4e45-9e9b-19294494c982,deed.casino,available,15.99,277.99,high,low,4,godaddy,,,28/09/2026 01:46
 a5ec063b-bd25-4c80-ac3b-9add4cd5c5f8,odour.casino,available,6.98,191.98,high,low,5,namecheap,,,20/09/2026 08:26
@@ -876,16 +951,19 @@ a5ec063b-bd25-4c80-ac3b-9add4cd5c5f8,odour.casino,available,6.98,191.98,high,low
 2e68473c-e06d-4f76-b54f-0c6c23492bf6,bride.casino,available,14.99,159.99,high,low,5,namesilo,,,24/09/2026 10:31
 08d9c5b6-5bce-4781-9c67-8c7b22e7aad9,overlooked.casino,available,6.98,191.98,medium,low,10,namecheap,,,04/09/2026 21:04
 e181d5d5-1664-45cb-9298-86648ec587fc,nickname.casino,available,6.98,191.98,high,low,8,namecheap,,,24/09/2026 11:25
+38f81fbc-863e-4111-89c2-0fb53c3c7b30,melinda.casino,available,7.72,129.25,medium,low,7,porkbun,,,28/09/2026 21:22
 3aaeb67e-c3c3-4003-8598-609342f9f794,sunbeam.casino,available,12.79,159.99,high,low,7,namesilo,,,
+a43b3064-0b10-43c9-8d65-b8f08b5a4dc9,monitors.casino,available,6.98,191.98,medium,low,8,namecheap,,,29/09/2026 00:02
 2022f912-96a4-4da8-8c98-f63c83d44d3b,uttered.casino,available,6.98,191.98,medium,low,7,namecheap,,,17/08/2026 18:44
 84de13eb-36ba-443b-a39a-9ab6f33e223e,awful.casino,available,14.99,159.99,high,low,5,namesilo,,,22/09/2026 15:06
 201ecfe8-acb5-4e33-ad4d-e7c013127514,polluted.casino,available,6.98,191.98,medium,low,8,namecheap,,,08/09/2026 23:08
 3a09d70d-f6c0-45a9-a631-219285cd3fc2,hasty.casino,available,6.98,191.98,medium,low,5,namecheap,,,21/08/2026 01:15
 c8a6594a-13fb-4dec-9e34-694ac2350376,phantasm.casino,available,6.98,191.98,high,low,8,namecheap,,,08/09/2026 18:36
 1673e582-e96b-4132-969f-4a88b5443f5a,claremont.casino,available,14.99,159.99,high,low,9,namesilo,,,27/09/2026 08:22
+0ce035c1-71ee-4112-a194-01f8cb287899,informant.casino,available,125.2,125.2,medium,low,9,cloudflare,,,28/09/2026 14:31
 f9c81059-e566-4ea8-a6b7-146827d50b8a,executable.casino,available,6.98,191.98,high,low,10,namecheap,,,17/08/2026 16:50
 7f7828ed-2920-44d1-b626-f8d9cdd78721,eastward.casino,available,6.98,191.98,high,low,8,namecheap,,,14/08/2026 22:48
-c3aec816-5be4-4186-9e0a-09a81b39c499,buddy.casino,available,12.79,159.99,high,low,5,namesilo,,,
+c3aec816-5be4-4186-9e0a-09a81b39c499,buddy.casino,available,15.99,159.99,high,medium,5,unstoppable,,,29/09/2026 05:01
 21a66003-25ca-46bf-b049-f6b3dacbd374,ataxic.casino,available,6.98,191.98,medium,low,6,namecheap,,,07/08/2026 12:32
 3fab9b4e-488e-40b8-b7b1-9ef7c905c656,transparent.casino,available,17.99,,high,low,11,name.com,,,
 34db9578-bc28-4bef-adf0-9d8153aac5d4,modeling.casino,available,14.99,159.99,high,low,8,namesilo,,,24/09/2026 15:25
@@ -893,10 +971,10 @@ c3aec816-5be4-4186-9e0a-09a81b39c499,buddy.casino,available,12.79,159.99,high,lo
 37a07dea-a0de-4f23-a5d1-359a84701dd5,anatomical.casino,available,6.98,191.98,medium,low,10,namecheap,,,
 f31eca40-9fa6-4931-a5c5-d31448a5e9a4,unseen.casino,available,6.98,191.98,high,low,6,namecheap,,,12/09/2026 16:05
 e7a10635-991a-483b-bf29-3458b49bcd1c,rectangle.casino,available,12.79,159.99,high,low,9,namesilo,,,
-727675da-0fc7-4afc-a339-df564ee2a12b,aspect.casino,available,12.79,159.99,high,low,6,namesilo,,,
 3ebdd068-2781-465e-83cc-126544aefa23,pissed.casino,available,6.98,191.98,medium,low,6,namecheap,,,
 ccbb7e91-f753-4d7b-93d2-0c7ae3126110,values.casino,available,12.79,159.99,high,low,6,namesilo,,,
 d6d1ce95-1734-4927-b179-a586135afafb,contemplation.casino,available,6.98,191.98,medium,low,13,namecheap,,,16/09/2026 21:40
+3469a537-b72a-4948-bbdf-59df65c07b87,fitzroy.casino,available,6.98,191.98,medium,low,7,namecheap,,,28/09/2026 23:19
 baf99bee-3ef0-4746-8f4e-39cf237d0af1,opens.casino,available,6.98,191.98,medium,low,5,namecheap,,,18/09/2026 23:02
 d765fbec-7a18-4351-9a80-06f705e2143a,tautog.casino,available,14.99,159.99,medium,low,6,namesilo,,,24/09/2026 02:17
 d35fadb9-ad13-4013-875a-8bc2eac24506,circuit.casino,available,12.79,159.99,high,low,7,namesilo,,,
@@ -905,9 +983,12 @@ d35fadb9-ad13-4013-875a-8bc2eac24506,circuit.casino,available,12.79,159.99,high,
 043b122d-8065-48aa-84b3-91c4878a3830,savoury.casino,available,6.98,191.98,high,low,7,namecheap,,,25/08/2026 08:52
 5985682e-12f5-4ae2-ad78-3909f0eb95b0,clx.casino,available,6.98,191.98,medium,low,3,namecheap,,,
 966b49c2-9e2f-4d8d-bba9-9a48357e19c1,baldness.casino,available,14.99,159.99,medium,low,8,namesilo,,,21/09/2026 21:44
-900228e5-aad3-447c-8b26-47fad8500545,division.casino,available,12.79,159.99,high,low,8,namesilo,,,
+900228e5-aad3-447c-8b26-47fad8500545,division.casino,available,7.72,129.25,high,low,8,porkbun,,,28/09/2026 19:33
+6cb5eea3-b301-4891-bb06-52a76541207f,ernesto.casino,available,14.99,159.99,medium,low,7,namesilo,,,28/09/2026 07:52
+0b0349aa-1cd2-465d-a058-479f993bb6b4,enters.casino,available,14.99,159.99,low,low,6,namesilo,,,28/09/2026 17:22
 0e0e10b7-b25b-4a0d-8f3a-25292547c621,pulverized.casino,available,6.98,191.98,medium,low,10,namecheap,,,18/08/2026 04:41
 df0dc30b-5b1c-408e-bff9-6c6e26021af8,widgeon.casino,available,14.99,159.99,medium,low,7,namesilo,,,19/09/2026 02:58
+a0dae3ac-9667-423c-833c-3139f580483b,eliminated.casino,available,6.41,129.58,medium,low,10,spaceship,,,28/09/2026 17:04
 3c1bfb32-dcbb-4b74-b95a-8bd7020cb05d,rescued.casino,available,6.98,191.98,high,low,7,namecheap,,,09/09/2026 11:35
 fd253842-8bbd-42c0-b515-c504798fa36a,mongoloid.casino,available,6.98,191.98,medium,low,9,namecheap,,,25/08/2026 04:49
 8c221c08-c5ad-4150-ac5b-a8806b1642fb,emboldened.casino,available,6.98,191.98,high,low,10,namecheap,,,16/08/2026 10:22
@@ -916,86 +997,5 @@ fd253842-8bbd-42c0-b515-c504798fa36a,mongoloid.casino,available,6.98,191.98,medi
 86be38e7-392d-4a43-b5e0-0636d884ddda,incarnate.casino,available,6.98,191.98,high,low,9,namecheap,,,16/08/2026 09:36
 b7e08773-07d1-4d03-ad2d-84e502b1a6c9,avifauna.casino,available,14.99,159.99,medium,low,8,namesilo,,,21/09/2026 09:31
 fcd1e9af-9031-4c12-baed-96fd83bc21a3,dural.casino,available,6.98,191.98,medium,low,5,namecheap,,,14/08/2026 21:30
+508ae8f3-caf5-453b-8ea4-a151409d4e60,westport.casino,available,7.71,133.97,medium,low,8,dynadot,,,28/09/2026 08:11
 20165967-c056-488c-b5c1-59b383a196ef,puffed.casino,available,6.98,191.98,high,low,6,namecheap,,,09/09/2026 05:37
-2f2c454a-bb1e-439e-8e07-c70f670e5115,improved.casino,available,6.98,191.98,high,low,8,namecheap,,,21/08/2026 23:15
-0d7c0966-1a75-4d27-bb1d-6907cb407d09,subjects.casino,available,12.79,159.99,medium,low,8,namesilo,,,
-274ad249-13e3-48ed-b01c-29c15838b319,characteristics.casino,available,12.79,159.99,medium,low,15,namesilo,,,
-e33c20f6-6ad2-4bee-a72e-1c0ca5396a67,captivated.casino,available,6.98,191.98,medium,low,10,namecheap,,,09/08/2026 09:52
-f007d3d3-279e-4d64-bb89-8b1180032685,gallon.casino,available,12.79,159.99,high,low,6,namesilo,,,
-b4f095a8-c2aa-46c6-a8cb-8ca9e040600d,gunshot.casino,available,6.41,129.58,medium,low,7,spaceship,,,28/09/2026 05:55
-2a043858-77ad-4426-93b4-2f2a511c12e4,clout.casino,available,6.98,191.98,high,low,5,namecheap,,,23/09/2026 13:48
-1716ce4a-3c36-4057-b341-33b0e07840cc,counts.casino,available,6.98,191.98,high,low,6,namecheap,,,18/09/2026 18:14
-f4ac0ee6-4562-4cf4-8955-3929cee18e12,jim.casino,available,6.98,191.98,high,low,3,namecheap,,,
-206a26ee-d3f7-42f0-b233-0a22e53abfb0,hierarch.casino,available,14.99,159.99,medium,low,8,namesilo,,,20/09/2026 02:30
-ca69d2ed-19f1-4725-ac1f-cbdd3afbdf5c,tangential.casino,available,6.98,191.98,medium,low,10,namecheap,,,14/08/2026 07:29
-5b703e00-dd45-47c9-90b4-6c9f65b30265,incredible.casino,available,14.99,159.99,high,low,10,namesilo,,,25/09/2026 09:04
-2f3e2ea1-7b6d-4e8c-a92b-24befe0b404e,raving.casino,available,6.98,191.98,high,low,6,namecheap,,,15/09/2026 22:43
-6687902a-70a7-4fe6-9413-e2c7eff3ca5c,bedfellow.casino,available,14.99,159.99,medium,low,9,namesilo,,,22/09/2026 23:14
-dd92d989-4917-48aa-b6d7-9ca8d5cef65f,dish.casino,available,6.98,191.98,high,low,4,namecheap,,,19/09/2026 08:19
-f39ff090-ca6f-49a6-914a-aca6fa2efb09,grandkids.casino,available,14.99,159.99,medium,low,9,namesilo,,,19/09/2026 23:28
-4cf3abe8-2986-43e6-99c9-1ae5cf1c33e6,xlii.casino,available,6.98,191.98,medium,low,4,namecheap,,,
-3e73afd3-e54f-40d2-abd5-23ece49bb7b7,hexangular.casino,available,6.98,191.98,medium,low,10,namecheap,,,21/08/2026 07:48
-f8ba1e16-665c-471e-aa4f-dc5587634730,weeklong.casino,available,6.98,191.98,medium,low,8,namecheap,,,10/09/2026 05:01
-eb7fbd1a-81cd-4c07-8d7f-6edac3953d5d,socioeconomic.casino,available,6.98,191.98,medium,low,13,namecheap,,,16/09/2026 12:07
-92c2fd31-c2aa-47b4-b323-68483742420b,cure.casino,available,14.99,159.99,high,low,4,namesilo,,,24/09/2026 03:52
-7269ec8b-e3d1-404d-96b7-c7753acd6676,suit.casino,available,6.98,191.98,high,low,4,namecheap,,,24/09/2026 18:58
-dba237c5-1d74-4449-95bb-ec13bd255e2a,barbarous.casino,available,6.98,191.98,medium,low,9,namecheap,,,08/08/2026 15:40
-7493eba0-2339-4d9e-a251-d70342e269df,tylenol.casino,available,,,high,medium,7,,,,
-aaaa1596-767c-4763-95d8-0b41272ed3a5,duty.casino,available,12.79,159.99,high,low,4,namesilo,,,
-cac96e97-89ca-4644-9f32-3dc84d2014a3,delay.casino,available,12.79,159.99,high,low,5,namesilo,,,
-ad12b10e-c1a3-46de-8da0-d09eef8b27f4,isomeric.casino,available,6.98,191.98,medium,low,8,namecheap,,,22/08/2026 11:08
-ed2e8957-6bdb-402c-b566-984f283fe85b,amaranth.casino,available,14.99,159.99,high,low,8,namesilo,,,18/09/2026 15:50
-e1cbd5ad-e2e7-4258-9d8c-e698144b4e53,favor.casino,available,6.98,191.98,high,low,5,namecheap,,,27/09/2026 03:53
-8bd5753d-7540-4e0c-8759-55cb1a17d0f9,azurite.casino,available,14.99,159.99,high,low,7,namesilo,,,21/09/2026 11:39
-a45c9422-1a8f-4c86-890b-74977ea9bab9,untried.casino,available,6.98,191.98,medium,low,7,namecheap,,,12/09/2026 21:15
-e3ec19a7-2cd4-4873-a07f-03dbe00d65e2,cheeses.casino,available,12.79,159.99,high,low,7,namesilo,,,
-5fdf157d-538a-4ba9-8b4e-45eb29078cc5,adaptive.casino,available,14.99,159.99,high,low,8,namesilo,,,21/09/2026 16:55
-aac232d3-5d98-4279-acaf-556843319f07,resistant.casino,available,6.98,191.98,high,low,9,namecheap,,,09/09/2026 15:18
-73123b9e-0969-4f04-bd76-9b029550bc3a,shovels.casino,available,14.99,159.99,medium,low,7,namesilo,,,20/09/2026 10:22
-9e5fb422-fed0-460a-a364-ef0b6d855291,undisciplined.casino,available,12.79,159.99,medium,low,13,namesilo,,,
-4c1ab92e-51fd-4c51-ac0a-0e51753f6779,vested.casino,available,6.98,191.98,high,low,6,namecheap,,,13/09/2026 04:49
-c54e2f6b-eaa5-49a3-90ae-ed76f1479de5,baiza.casino,available,6.98,191.98,medium,low,5,namecheap,,,21/09/2026 19:33
-7bff1e3a-d32c-45a3-ae64-c6e9a9de8e14,matter.casino,available,12.79,159.99,high,low,6,namesilo,,,
-d4e129a5-b1d7-4e0c-8ff7-425c9d940700,oldest.casino,available,12.79,159.99,high,low,6,namesilo,,,
-930c9478-b4f3-4541-a170-69731e754e3d,empowered.casino,available,6.98,191.98,high,low,9,namecheap,,,16/08/2026 18:26
-8f7a561a-2996-44b3-9868-59b279197544,prompts.casino,available,14.99,159.99,high,medium,7,namesilo,,,20/09/2026 08:06
-9dccaa4a-8c04-4e48-9131-6bcc3a1800fe,unisex.casino,available,6.98,191.98,high,low,6,namecheap,,,12/09/2026 13:52
-17a85279-4d66-4d80-bdbd-dd8072b4c996,complement.casino,available,12.79,159.99,high,low,10,namesilo,,,
-f36f387b-cc0d-4d7f-b146-b6780bce0454,endwise.casino,available,6.98,191.98,medium,low,7,namecheap,,,14/09/2026 15:37
-376065de-51bc-4367-8a7f-b012f846a446,followed.casino,available,14.99,159.99,medium,low,8,namesilo,,,25/09/2026 17:12
-04b1ccb2-c382-4161-b73b-3bff38e6ee47,speeds.casino,available,14.99,159.99,medium,low,6,namesilo,,,20/09/2026 02:30
-3e3aa653-6b5e-4b80-bbef-874e7d4ac338,menu.casino,available,17.99,,high,low,4,name.com,,,
-0d154b05-ca8a-4e43-b10c-eeaf5c5869ea,she.casino,available,12.79,159.99,high,low,3,namesilo,,,
-dddbe3c0-af67-4f19-9f36-8bcc9c51d962,thirdly.casino,available,6.98,191.98,medium,low,7,namecheap,,,11/09/2026 13:39
-37f1c624-23f4-4ce3-a644-07904245941b,accordance.casino,available,14.99,159.99,high,low,10,namesilo,,,16/09/2026 23:00
-2e554f5a-990a-4c89-83af-263638ad5544,mandioca.casino,available,14.99,159.99,medium,low,8,namesilo,,,23/09/2026 22:54
-8bf69018-dafe-4bc8-8cf1-91ef1ee50a0e,overdress.casino,available,14.99,159.99,medium,low,9,namesilo,,,21/09/2026 01:53
-59d19708-3b02-4d51-b7e0-e5e502e7378b,bricks.casino,available,12.79,159.99,medium,low,6,namesilo,,,
-15d8600b-7139-4291-a587-bdcc05f211a3,catarrhine.casino,available,6.98,191.98,medium,low,10,namecheap,,,11/08/2026 21:11
-3098bb3a-85e8-441e-b29e-b5fdb76d8e0c,repose.casino,available,6.98,191.98,high,low,6,namecheap,,,20/09/2026 19:37
-feb42e5b-598d-40f4-9da2-b45ef60ebce1,berne.casino,available,6.98,191.98,medium,low,5,namecheap,,,23/09/2026 09:45
-750b7f68-0275-45d8-a8ef-3dd9087c35a7,pals.casino,available,14.99,159.99,high,low,4,namesilo,,,20/09/2026 10:42
-42486476-3d31-4430-a328-ff03bfb26b7b,meets.casino,available,14.99,159.99,high,low,5,namesilo,,,27/09/2026 06:26
-0d88315f-d56f-4e79-a31e-99b0c4da2f25,dampness.casino,available,13.99,236.99,medium,low,8,name.com,,,13/08/2026 16:45
-eee00732-7250-4287-8151-1630d74aa9a4,analyzable.casino,available,6.98,191.98,medium,low,10,namecheap,,,
-86282d8b-7be6-4873-9377-7e02ddd9794a,wedged.casino,available,6.98,191.98,medium,low,6,namecheap,,,21/08/2026 21:38
-9bcee4ef-5d88-4cc3-a2ba-0f8ee3070b5c,indolent.casino,available,6.98,191.98,medium,low,8,namecheap,,,17/08/2026 20:53
-842d0150-3fa7-483f-80e1-679637d76724,obsessive.casino,available,14.99,159.99,high,low,9,namesilo,,,25/09/2026 23:45
-2327e150-d412-4b26-a551-18b6b02315d9,ditto.casino,available,6.98,191.98,high,low,5,namecheap,,,24/09/2026 23:16
-0e11fc26-04df-4d51-b02e-4ddefbed3865,collar.casino,available,14.99,159.99,high,low,6,namesilo,,,20/09/2026 09:02
-ced24d59-f6f4-4065-866f-6788d5dbe5dd,spillover.casino,available,14.99,159.99,medium,low,10,namesilo,,,16/09/2026 17:36
-bdd71cad-45be-4247-8204-12bfd2e6bb58,strength.casino,available,14.99,159.99,high,low,8,namesilo,,,19/09/2026 17:18
-a77c60ea-d800-4fa2-8736-12811dd8becc,suspense.casino,available,17.99,,high,low,8,name.com,,,
-1c2c3c60-87d8-44f2-80f9-aba335a0a872,apophatic.casino,available,6.98,191.98,medium,low,9,namecheap,,,06/08/2026 02:27
-14e6f05a-e587-4170-872e-31a8a78d5cdf,quantities.casino,available,12.79,159.99,low,low,10,namesilo,,,
-93a957bb-d451-4b12-8655-db698fda59a2,looks.casino,available,12.79,159.99,high,low,5,namesilo,,,
-c5318977-43fd-44d2-8a11-268787fa7f8c,haversack.casino,available,14.99,159.99,high,low,9,namesilo,,,21/09/2026 14:43
-f8b145d4-bd40-4d34-beb0-6b03ad40b757,engagement.casino,available,14.99,159.99,high,low,10,namesilo,,,25/09/2026 10:18
-d1ee57eb-921f-4238-92dc-cd6983a97c53,abandoned.casino,available,14.99,159.99,high,low,9,namesilo,,,21/09/2026 13:36
-974b06fc-5866-4d8f-b475-b2f07f6cca06,legs.casino,available,12.79,159.99,high,low,4,namesilo,,,
-3e294153-7bd6-4f27-839a-f8284706d5bd,sheik.casino,available,13.99,236.99,high,low,5,name.com,,,13/08/2026 17:11
-5fed5911-daf0-4557-914f-38665e29fa53,equipping.casino,available,14.99,159.99,medium,low,9,namesilo,,,20/09/2026 07:13
-06b953a5-f4b1-4623-9648-a785b8eb1202,glaring.casino,available,6.98,191.98,high,low,7,namecheap,,,10/08/2026 13:47
-d2dddeea-8962-4f65-92f2-1e6de09d2659,untrod.casino,available,6.98,191.98,medium,low,6,namecheap,,,08/09/2026 10:33
-4295487a-0586-4311-be58-c551564b644d,xxiv.casino,available,6.98,191.98,medium,low,4,namecheap,,,
-d47ff5f9-2694-4829-a742-80080e159d50,stupefying.casino,available,6.98,191.98,low,low,10,namecheap,,,10/09/2026 18:10
